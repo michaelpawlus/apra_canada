@@ -1,0 +1,986 @@
+id,grad_yr,type,type2,parent,degree,major,spouse_type,spouse_type2,FSA,median_income,title,affinity,latest_date,pldg_blc,cons_giving,fy16,fy15,fy14,ttl_giving
+1703,,I     ,I     , ,      , ,I     ,I     ,M6P,68781,                                                  ,0, ,0,0,0,0,0,0
+2102,,I     ,I     , ,      , ,I     ,I     ,M5E,94414,Associate                                         ,0,12/14/2012,0,0,0,0,0,9100
+2917,,I     ,I     , ,      , ,      ,      ,M5P,119364,Chairman                                          ,0, ,0,0,0,0,0,0
+4716,,I     ,P     ,Parent,      , ,      ,      ,M5S,80977,CEO                                               ,0, ,0,0,0,0,0,0
+6051,,I     ,I     , ,      , ,I     ,I     ,M5M,135475,                                                  ,0, ,0,0,0,0,0,0
+39028,,I     ,I     , ,      , ,      ,      ,M3K,60887,                                                  ,0,5/20/2004,0,0,0,0,0,200
+40813,,I     ,I     , ,      , ,I     ,I     ,M5M,135475,Shareholder Dir                                   ,0, ,0,0,0,0,0,0
+41261,,I     ,I     , ,      , ,I     ,I     ,M5S,80977,                                                  ,0,5/3/1999,0,0,0,0,0,250
+48916,,I     ,I     , ,      , ,      ,      ,M1H,58876,                                                  ,0, ,0,0,0,0,0,0
+50470,,I     ,I     , ,      , ,      ,      ,M5B,63763,                                                  ,0, ,0,0,0,0,0,0
+57212,,I     ,I     , ,      , ,      ,      ,M3K,60887,Publisher                                         ,0, ,0,0,0,0,0,0
+58098,,I     ,I     , ,      , ,      ,      ,M5S,80977,Partner                                           ,0, ,0,0,0,0,0,0
+58710,,I     ,I     , ,      , ,      ,      ,M4E,99523,                                                  ,0, ,0,0,0,0,0,0
+61704,,I     ,I     , ,      , ,      ,      ,M3C,53636,                                                  ,0,12/31/2012,0,0,0,0,0,250
+61989,,I     ,I     , ,      , ,I     ,A     ,M3C,53636,President                                         ,0, ,0,0,0,0,0,0
+62974,,I     ,I     , ,      , ,I     ,I     ,M1S,58417,Attorney                                          ,0, ,0,0,0,0,0,0
+64355,,I     ,I     , ,      , ,I     ,I     ,M5S,80977,President                                         ,0, ,0,0,0,0,0,0
+71400,,I     ,I     , ,      , ,I     ,I     ,M5M,135475,First Vice President                              ,0,3/11/2015,0,13,0,2000,2750,15400
+72536,,I     ,I     , ,      , ,I     ,I     ,M5M,135475,President                                         ,0,8/24/2015,0,4,225,200,700,3875
+72976,,I     ,P     ,Parent,      , ,I     ,P     ,M5P,119364,Networking                                        ,0,6/17/2011,0,0,0,0,0,3086
+73620,,I     ,I     , ,      , ,      ,      ,M1H,58876,Sr. VP                                            ,0, ,0,0,0,0,0,0
+76316,,I     ,P     ,Parent,      , ,      ,      ,M5S,80977,President                                         ,0, ,0,0,0,0,0,0
+80432,,I     ,I     , ,      , ,I     ,I     ,M5J,92668,Vice President                                    ,0, ,0,0,0,0,0,0
+83505,,I     ,I     , ,      , ,I     ,I     ,M5S,80977,President and CEO                                 ,0, ,0,0,0,0,0,0
+83718,1972,I     ,A     , ,BBA   ,Business General,      ,      ,M1B,65192,Vice President                                    ,0, ,0,0,0,0,0,0
+83582,1973,I     ,A     , ,BS    ,Group SS Soc,      ,      ,M6H,57309,Billing Coordinator                               ,0, ,0,0,0,0,0,0
+83639,1973,I     ,A     , ,BS    ,Biology,      ,      ,M4B,63005,                                                  ,4,11/10/2014,0,0,0,10,20,90
+83698,1973,I     ,A     , ,BS    ,Accounting,      ,      ,M6H,57309,Owner                                             ,6, ,0,0,0,0,0,0
+83837,1973,I     ,A     , ,BS    ,Biology,I     ,I     ,M4E,99523,Manager                                           ,2, ,0,0,0,0,0,0
+84063,1977,I     ,A     ,Parent,BS    ,Group SS Soc,I     ,A     ,M1L,48164,                                                  ,1, ,0,0,0,0,0,0
+83852,1975,I     ,A     , ,BPH   ,Environmental Studies,      ,      ,M5S,80977,Photographer                                      ,3, ,0,0,0,0,0,0
+84005,1972,I     ,A     ,Parent,BBA   ,Business General,      ,      ,M5B,63763,RN                                                ,1, ,0,0,0,0,0,0
+84086,1978,I     ,A     , ,BA    ,Art,      ,      ,M1L,48164,Postal Clerk                                      ,2, ,0,0,0,0,0,0
+84024,1976,I     ,A     , ,BA    ,English Language and Literature,      ,      ,M5A,43816,Teacher                                           ,2, ,0,0,0,0,0,0
+84286,1975,I     ,A     ,Parent,BS    ,Group SS Soc,I     ,P     ,M6N,57378,Self-Employed                                     ,1, ,0,0,0,0,0,0
+84194,1976,I     ,A     ,Parent,BS    ,Group SS Soc,      ,      ,M1P,54560,Tchr /Coach                                       ,5,11/13/2009,0,0,0,0,0,490
+84360,1972,I     ,A     , ,BPH   ,Environmental Studies,      ,      ,M4C,60310,Doctor of Chiropractic                            ,2, ,0,0,0,0,0,0
+84333,1970,I     ,A     , ,BS    ,Business General,I     ,A     ,M5R,96285,Attorney                                          ,2,12/8/1989,0,0,0,0,0,400
+84590,1976,I     ,A     ,Parent,BS    ,Legal Administration,I     ,A     ,M4E,99523,Atty                                              ,8,4/8/2009,0,0,0,0,600,4300
+84582,1977,I     ,A     ,Parent,BS    ,Biology,      ,      ,M5J,92668,Operations Supervisor                             ,4, ,0,0,0,0,0,0
+84598,1970,I     ,A     , ,BS    ,GRO Soc Science,I     ,A     ,M5T,40061,Elem  Teacher                                     ,8, ,0,0,0,0,0,0
+84617,1968,I     ,A     , ,BA    ,GRP SS Hist,I     ,A     ,M5T,40061,Retired Teacher                                   ,7, ,0,0,0,0,0,0
+84630,1973,I     ,A     , ,BS    ,Computer Science,      ,      ,M6K,43527,Computer Analyst                                  ,0, ,0,0,0,0,0,0
+84746,1968,I     ,A     ,Parent,BA    ,GRO Soc Science,      ,      ,M5J,92668,Sixth Grade Teacher                               ,2, ,0,0,0,0,0,0
+84817,1972,I     ,A     ,Parent,BA    ,English Language and Literature,      ,      ,M3N,45065,Teacher                                           ,3, ,0,0,0,0,0,0
+84737,1971,I     ,A     , ,BS    ,Psychology,      ,      ,M4L,74448,                                                  ,0, ,0,0,0,0,0,0
+84816,1971,I     ,A     , ,BS    ,Psychology,      ,      ,M6M,49028,Human Resources Mgr                               ,2, ,0,0,0,0,0,0
+84708,1976,I     ,A     , ,BS    ,GRP SS Pol Sci,      ,      ,M6N,57378,Admin. Supervisor                                 ,0, ,0,0,0,0,0,0
+84970,1979,I     ,A     ,Parent,BSN   ,Nursing,I     ,P     ,M1H,58876,Nurse                                             ,1, ,0,0,0,0,0,0
+84792,1977,I     ,A     ,Parent,BS    ,Chemistry,I     ,A     ,M3C,53636,Mgr. of Quality Assurance                         ,1, ,0,0,0,0,0,0
+84923,1973,I     ,A     , ,BS    ,GRP SS Phil,      ,      ,M5A,43816,Self employed                                     ,1, ,0,0,0,0,0,0
+85036,1971,I     ,A     ,Parent,BA    ,French,      ,      ,M5A,43816,Parish Administrator                              ,1, ,0,0,0,0,0,0
+84948,1972,I     ,A     , ,BS    ,Art,      ,      ,M3K,60887,                                                  ,0, ,0,0,0,0,0,0
+84975,1971,I     ,A     ,Parent,BS    ,Physical Education,      ,      ,M5R,96285,Teacher                                           ,2, ,0,0,0,0,0,0
+85137,1973,I     ,A     , ,BA    ,Philosophy,I     ,A     ,M1B,65192,                                                  ,0, ,0,0,0,0,0,0
+85001,1967,I     ,A     , ,BA    ,Mathematics,      ,      ,M5E,94414,Retired                                           ,0,10/15/2008,0,0,0,0,0,150
+85176,1989,I     ,A     , ,BSN   ,Nursing - RN,      ,      ,M2N,68333,Medical Services Mgr.                             ,2, ,0,0,0,0,0,0
+85267,1975,I     ,A     , ,BS    ,Environmental Studies,I     ,A     ,M5J,92668,                                                  ,0,11/30/2005,0,0,0,0,0,125
+85287,1973,I     ,A     ,Parent,BS    ,GRP SS Pol Sci,      ,      ,M6J,63464,Special Education Teacher                         ,3,11/8/2009,0,0,0,0,0,775
+85223,1971,I     ,A     , ,BS    ,GRO Soc Science,I     ,I     ,M5R,96285,VP of Human Resources        ,13,10/2/2015,0,22,500,500,500,7611
+85150,1983,I     ,A     , ,BS    ,Political Science,      ,      ,M5G,51478,Attorney                                          ,2, ,0,0,0,0,0,0
+85334,1973,I     ,A     , ,BA    ,Economics,      ,      ,M6P,68781,                                                  ,0, ,0,0,0,0,0,0
+85122,1980,I     ,A     , ,BBA   ,Accounting,      ,      ,M5J,92668,                                                  ,6,5/12/2004,0,0,0,0,0,340
+85456,1971,I     ,A     , ,BS    ,Group SCI Math,I     ,I     ,M5S,80977,                                                  ,0,2/27/2003,0,0,0,0,0,500
+85493,1972,I     ,A     , ,BA    ,Anthropology,I     ,A     ,M4B,63005,Research Associate                                ,5,11/12/2015,0,0,100,0,100,1600
+85495,1975,I     ,A     ,Parent,BS    ,GRP SS Hist,      ,      ,M3C,53636,                                                  ,1,9/27/2007,0,0,0,0,0,40
+85548,1974,I     ,A     , ,BS    ,Physical Education,      ,      ,M4C,60310,                                                  ,1, ,0,0,0,0,0,0
+85747,1975,I     ,A     , ,BBA   ,Business General,      ,      ,M5B,63763,VP/Branch Manager                                 ,1, ,0,0,0,0,0,0
+85856,1973,I     ,A     ,Parent,BS    ,Biology,I     ,A     ,M3N,45065,                                                  ,2,10/7/2012,0,0,0,0,0,5200
+85684,1974,I     ,A     , ,BS    ,Biology,I     ,A     ,M5G,51478,Bio. & Chem. Teacher                              ,1, ,0,0,0,0,0,0
+85938,1973,I     ,A     , ,BPH   ,Environmental Studies,      ,      ,M6K,43527,Director of Counseling                            ,1, ,0,0,0,0,0,0
+85834,1975,I     ,A     , ,BS    ,Group SS Soc,      ,      ,M4B,63005,                                                  ,0, ,0,0,0,0,0,0
+86035,1967,I     ,A     ,Parent,BA    ,Sociology,      ,      ,M6P,68781,Retired Police Officer,1, ,0,0,0,0,0,0
+85861,1974,I     ,A     , ,BA    ,Group SS Soc,      ,      ,M6J,63464,Elementary Teacher                                ,0, ,0,0,0,0,0,0
+85981,1975,I     ,A     , ,BS    ,Environmental Studies,      ,      ,M1L,48164,                                                  ,1, ,0,0,0,0,0,0
+86048,1972,I     ,A     , ,MED   ,GRO Soc Science,      ,      ,M5S,80977,Special Educ Teacher                              ,0, ,0,0,0,0,0,0
+86052,1972,I     ,A     , ,BA    ,Group SS Soc,      ,      ,M4S,95168,Elementary Teacher                                ,0, ,0,0,0,0,0,0
+85933,1979,I     ,A     , ,BS    ,Environmental Studies,      ,      ,M6L,51191,Owner                                             ,2, ,0,0,0,0,0,0
+85928,1972,I     ,A     ,Parent,BA    ,Art,      ,      ,M5B,63763,                                                  ,1, ,0,0,0,0,0,0
+85982,1973,I     ,A     , ,BBA   ,Business General,      ,      ,M1B,65192,President                                         ,1, ,0,0,0,0,0,0
+86027,1972,I     ,A     ,Parent,BS    ,Sociology,I     ,A     ,M2N,68333,                                                  ,5,12/17/2015,0,0,50,50,0,215
+86022,1974,I     ,A     , ,BS    ,Political Science,      ,      ,M6P,68781,                                                  ,0, ,0,0,0,0,0,0
+86195,1972,I     ,A     , ,BA    ,Group SS Soc,      ,      ,M3B,111062,Reading Teacher                                   ,0, ,0,0,0,0,0,0
+86269,1969,I     ,A     , ,BS    ,Biology,      ,      ,M1E,64284,Plant Manager             ,15,12/3/2015,0,19,1000,1000,1000,11780
+86208,1969,I     ,A     , ,BA    ,English Language and Literature,      ,      ,M6B,63133,Executive Director                                ,3,5/5/2015,0,0,0,100,0,400
+86314,1976,I     ,A     , ,BA    ,Music,      ,      ,M5J,92668,Spanish Teacher                                   ,5,9/27/2011,0,0,0,0,0,150
+86436,1974,I     ,A     ,Parent,BBA   ,Business General,      ,      ,M6H,57309,Purchasing                                        ,1, ,0,0,0,0,0,0
+86575,1972,I     ,A     ,Parent,BS    ,Medical Technology,      ,      ,M6L,51191,Medical Technologist                              ,1, ,0,0,0,0,0,0
+86696,1977,I     ,A     , ,BS    ,Physical Education,      ,      ,M6L,51191,Teacher                                           ,2, ,0,0,0,0,0,0
+86697,1971,I     ,A     , ,BA    ,Biology,      ,      ,M6R,78744,                                                  ,1,9/15/2006,0,0,0,0,0,330
+86760,1967,I     ,A     , ,BA    ,German,I     ,I     ,M3H,68796,Teacher                                           ,41,1/26/2015,400,0,0,400,950,5654
+86655,1971,I     ,A     , ,BS    ,Economics,      ,      ,M6H,57309,                                                  ,11,11/12/2015,0,11,100,25,25,990
+86922,1976,I     ,A     , ,BS    ,Anthropology,      ,      ,M3B,111062,Preservation Officer                      ,1, ,0,0,0,0,0,0
+86974,1971,I     ,A     , ,BPH   ,Environmental Studies,      ,      ,M1L,48164,Teacher                                           ,0, ,0,0,0,0,0,0
+86926,1978,I     ,A     , ,BS    ,Art,I     ,P     ,M3C,53636,                                                  ,1, ,0,0,0,0,0,0
+87038,1971,I     ,A     , ,BS    ,Sociology,      ,      ,M4S,95168,                                                  ,1, ,0,0,0,0,0,0
+86977,1966,I     ,A     , ,BA    ,History,      ,      ,M3N,45065,Dir of  Multimedia Ctr ,7, ,0,0,0,0,0,0
+87192,1974,I     ,A     , ,BA    ,Sociology,      ,      ,M3H,68796,                                                  ,1, ,0,0,0,0,0,0
+87431,1974,I     ,A     ,Parent,MBA   ,Accounting,I     ,A     ,M3C,53636,Real Estate Assoc.                                ,3, ,0,0,0,0,0,0
+87462,1977,I     ,A     , ,BS    ,Physical Education,I     ,A     ,M2N,68333,Tchr  Coach                                       ,1, ,0,0,0,0,0,0
+87547,1971,I     ,A     , ,BA    ,Sociology,I     ,I     ,M5R,96285,                                                  ,1, ,0,0,0,0,0,0
+87570,1975,I     ,A     , ,BPH   ,Environmental Studies,      ,      ,M6R,78744,Attorney                                          ,0,6/13/1991,0,0,0,0,0,600
+87545,1970,I     ,A     , ,BS    ,GRP SS Econ,I     ,A     ,M6K,43527,Sales & Office Design                             ,17,10/7/2015,0,24,100,20000,33000,59285
+87713,1977,I     ,A     , ,BS    ,Physical Education,      ,      ,M4W,129818,Chiropractor                                      ,1, ,0,0,0,0,0,0
+87729,1975,I     ,A     , ,BS    ,Group SS Soc,      ,      ,M4P,76675,Coordinator                                       ,2, ,0,0,0,0,0,0
+87744,1973,I     ,A     , ,BS    ,Physical Education,      ,      ,M6P,68781,Elementary Teacher                                ,3, ,0,0,0,0,0,0
+87697,1972,I     ,A     ,Parent,BA    ,History,      ,      ,M6L,51191,Principal                                         ,1, ,0,0,0,0,0,0
+87637,1975,I     ,A     , ,BS    ,Group SS Soc,      ,      ,M5E,94414,Superintendent                                    ,1, ,0,0,0,0,0,0
+87901,1973,I     ,A     , ,BS    ,Criminal Justice,      ,      ,M5R,96285,Forensic Section Chief                            ,0, ,0,0,0,0,0,0
+87919,1976,I     ,A     , ,BS    ,Psychology,      ,      ,M6L,51191,Social Worker                                     ,1, ,0,0,0,0,0,0
+88081,1973,I     ,A     ,Parent,BA    ,English Language and Literature,I     ,A     ,M2N,68333,Attorney                                          ,2, ,0,0,0,0,0,0
+87985,1973,I     ,A     , ,BS    ,Physical Education,      ,      ,M6P,68781,Principle                                         ,3, ,0,0,0,0,0,0
+88087,1973,I     ,A     , ,BS    ,Geology,      ,      ,M1B,65192,Geologist                                         ,1, ,0,0,0,0,0,0
+88065,1971,I     ,A     ,Parent,BS    ,Group SS Soc,      ,      ,M2N,68333,Executive Director                                ,1, ,0,0,0,0,0,0
+88006,1975,I     ,A     , ,BS    ,Accounting,      ,      ,M2N,68333,                                                  ,0, ,0,0,0,0,0,0
+88186,1987,I     ,A     ,Parent,MED   ,Special Education,I     ,A     ,M1L,48164,                                                  ,1, ,0,0,0,0,0,0
+88204,1971,I     ,A     ,Parent,BA    ,English Language and Literature,I     ,A     ,M5J,92668,Sales Rep                                         ,4,6/3/2014,0,3,0,0,20,345
+88315,1974,I     ,A     , ,BS    ,Group SS Soc,      ,      ,M1H,58876,Prison Guard/Counselor                            ,2, ,0,0,0,0,0,0
+88382,1969,I     ,A     , ,BA    ,Psychology,      ,      ,M4N,156174,Professor                                         ,3, ,0,0,0,0,0,0
+88297,1973,I     ,A     , ,BS    ,GRO Soc Science,      ,      ,M5S,80977,Teacher                                           ,2, ,0,0,0,0,0,0
+88370,1975,I     ,A     , ,BS    ,Art,      ,      ,M5J,92668,Teacher/Prog. Coord.                              ,1, ,0,0,0,0,0,0
+88459,1974,I     ,A     , ,BA    ,Spanish,      ,      ,M2P,132447,Teacher                                           ,1, ,0,0,0,0,0,0
+88355,1974,I     ,A     , ,BPH   ,Environmental Studies,I     ,A     ,M4P,76675,Violinist                            ,5, ,0,0,0,0,0,1735
+88538,1975,I     ,A     ,Parent,BS    ,Group SS Soc,      ,      ,M2N,68333,Teacher                                           ,1, ,0,0,0,0,0,0
+88604,1973,I     ,A     , ,BS    ,Sociology,      ,      ,M1N,75900,Case Cst/Disability Exam.                         ,0, ,0,0,0,0,0,0
+88419,1975,I     ,A     , ,BA    ,English Language and Literature,I     ,A     ,M6L,51191,                                                  ,2,7/13/2005,0,0,0,0,0,180
+88520,1973,I     ,A     , ,BBA   ,Business General,      ,      ,M5S,80977,                                                  ,0, ,0,0,0,0,0,0
+88673,1977,I     ,A     ,Parent,BS    ,Art,      ,      ,M5T,40061,Realtor                                           ,2, ,0,0,0,0,0,0
+88663,1971,I     ,A     , ,BS    ,Sociology,      ,      ,M6B,63133,Pastor                                            ,2, ,0,0,0,0,0,0
+88786,1973,I     ,A     ,Parent,BA    ,English Language and Literature,      ,      ,M5S,80977,Teacher                                           ,1, ,0,0,0,0,0,0
+88832,1977,I     ,A     , ,BS    ,Group SS Soc,      ,      ,M5J,92668,                                                  ,3,10/5/2011,0,0,0,0,0,610
+88874,1971,I     ,A     , ,BS    ,Biology,      ,      ,M4C,60310,Mgr./Diag. Radiology                              ,1, ,0,0,0,0,0,0
+88865,1972,I     ,A     , ,BS    ,Chemistry,      ,      ,M1B,65192,Sr. Research Manager                              ,0, ,0,0,0,0,0,0
+88892,1974,I     ,A     , ,BS    ,Nursing,      ,      ,M5T,40061,Self-Employed                                     ,0, ,0,0,0,0,0,0
+88935,1974,I     ,A     , ,BBA   ,Business General,      ,      ,M6M,49028,President/Auto Dealer                             ,1, ,0,0,0,0,0,0
+89117,1974,I     ,A     , ,BA    ,Music,      ,      ,M3J,49625,                                                  ,1, ,0,0,0,0,0,0
+89258,1968,I     ,A     , ,BA    ,Economics,I     ,I     ,M3K,60887,Self-Employed: Construction                       ,10,12/17/2015,0,28,400,400,200,10200
+89199,1976,I     ,A     ,Parent,BS    ,Group SS Soc,      ,      ,M3C,53636,Director                                          ,1, ,0,0,0,0,0,0
+89084,1977,I     ,A     ,Parent,BS    ,Biology,      ,      ,M4B,63005,Manufacturing Eng.                                ,7,5/23/2012,0,0,0,0,0,242
+89177,1980,I     ,A     ,Parent,BA    ,Music,I     ,A     ,M3H,68796,Ofc  Manager                                      ,2, ,0,0,0,0,0,0
+89356,1974,I     ,A     , ,BS    ,Physical Education,I     ,I     ,M1B,65192,                                                  ,14,10/14/2015,0,3,600,50,600,2310
+89470,1972,I     ,A     ,Parent,BS    ,Group SS Soc,      ,      ,M5T,40061,Special Educ  Tchr                                ,1, ,0,0,0,0,0,0
+89436,1982,I     ,A     ,Parent,BS    ,Music,I     ,P     ,M5T,40061,Dir  of Music                   ,3, ,0,0,0,0,0,0
+89605,1971,I     ,A     ,Parent,BA    ,English Language and Literature,I     ,A     ,M6P,68781,Interpreter for Courts                            ,1, ,0,0,0,0,0,0
+89594,1973,I     ,A     ,Parent,BS    ,GRO Soc Science,      ,      ,M6L,51191,Financial Cnslt                                   ,1, ,0,0,0,0,0,0
+89623,1977,I     ,A     ,Parent,BBA   ,Marketing,      ,      ,M6J,63464,Owner                                             ,1, ,0,0,0,0,0,0
+89684,1973,I     ,A     , ,BS    ,Mathematics,      ,      ,M6H,57309,Substitute Teacher                                ,0, ,0,0,0,0,0,0
+89900,1998,I     ,A     , ,MED   ,General Education,      ,      ,M1H,58876,Stay At Home Mom                                  ,2, ,0,0,0,0,0,0
+90384,2004,I     ,A     , ,BA    ,Psychology,      ,      ,M5T,40061,International Service Coordinator                 ,1, ,0,0,0,0,0,25
+90722,1995,I     ,A     , ,MSN   ,Nursing,      ,      ,M5S,80977,                                                  ,1, ,0,0,0,0,0,0
+91167,2002,I     ,A     , ,BS    ,Statistics,      ,      ,M4L,74448,Systems Manager                                   ,1,11/23/2009,0,0,0,0,0,30
+91606,1994,I     ,A     , ,BA    ,Political Science,      ,      ,M5J,92668,                                                  ,2, ,0,0,0,0,0,0
+91604,1975,I     ,A     , ,BS    ,Physical Education,      ,      ,M1S,58417,Teacher  PE & Coach Track                         ,3,7/22/2009,0,0,0,0,0,125
+91985,1986,I     ,A     , ,BS    ,Biomedical Communications,S     ,A     ,M6M,49028,RN                                                ,6,12/9/2015,0,7,100,0,150,1420
+91924,1994,I     ,A     , ,MED   ,General Education,I     ,A     ,M4V,120678,3rd Grade Teacher                                 ,0, ,0,0,0,0,0,0
+92282,2002,I     ,A     , ,MBA   ,Business General,I     ,A     ,M2N,68333,                                                  ,0, ,0,0,0,0,0,0
+92435,2002,I     ,A     , ,BS    ,Photography,      ,      ,M5J,92668,Photographer/Lab Technition                       ,2, ,0,0,0,0,0,0
+92468,1989,I     ,A     , ,BA    ,Economics,I     ,A     ,M4V,120678,                                                  ,0, ,0,0,0,0,0,0
+92774,2002,I     ,A     , ,BBA   ,Accounting,I     ,A     ,M6P,68781,Marketing                                         ,1, ,0,0,0,0,0,0
+92898,2005,I     ,A     , ,BSN   ,Nursing - RN,      ,      ,M2N,68333,                                                  ,0, ,0,0,0,0,0,0
+93052,1987,I     ,A     , ,BS    ,Medical Technology,I     ,A     ,M5J,92668,Market Researcher                                 ,6,12/23/2015,0,0,50,0,0,1750
+93160,1997,I     ,A     , ,BS    ,Health Science,      ,      ,M6H,57309,                                                  ,3,10/5/2011,0,0,0,0,0,245
+93245,2005,I     ,A     , ,BS    ,Physical Education,      ,      ,M3J,49625,6th-9th Grade Physical Education and Health Teache,2, ,0,0,0,0,0,0
+93274,1998,I     ,A     , ,BS    ,Health Science,I     ,A     ,M5R,96285,Occupation Therapist                              ,1, ,0,0,0,0,0,0
+93424,2004,I     ,A     , ,BS    ,Health Science,      ,      ,M5P,119364,Physical Therapist                                ,1, ,0,0,0,0,0,0
+93450,2002,I     ,A     , ,BSN   ,Nursing,I     ,A     ,M5S,80977,Nurse Practitioner                                ,4, ,0,0,0,0,0,0
+93621,2001,I     ,A     , ,BS    ,Therapeutic Recreation,I     ,A     ,M6H,57309,                                                  ,5, ,0,0,0,0,0,0
+93542,1986,I     ,A     , ,BS    ,Criminal Justice,      ,      ,M5S,80977,Sheriff                                           ,1, ,0,0,0,0,0,0
+93678,2000,I     ,A     , ,BBA   ,Finance,      ,      ,M5J,92668,Sales                                             ,2, ,0,0,0,0,0,0
+93779,1995,I     ,A     , ,BS    ,Economics,      ,      ,M4S,95168,Tax Preparer                                      ,1, ,0,0,0,0,0,0
+93808,1999,I     ,A     , ,BS    ,Information Systems,I     ,A     ,M5J,92668,Administrator                                 ,2, ,0,0,0,0,0,0
+93888,1979,I     ,A     , ,MBA   ,Business General,      ,      ,M5V,79018,Vice Pres/Sales& Finance                          ,7,10/28/2013,0,5,0,0,100,600
+94030,1999,I     ,A     , ,BBA   ,Finance,      ,      ,M4P,76675,Underwriting Spec                                 ,1, ,0,0,0,0,0,0
+94074,1990,I     ,A     , ,BA    ,English Language and Literature,      ,      ,M2P,132447,Teacher                                           ,2, ,0,0,0,0,0,0
+94323,1989,I     ,A     , ,BBA   ,Finance,I     ,A     ,M5J,92668,                                                  ,0, ,0,0,0,0,0,0
+94325,2007,I     ,A     , ,MBA   ,Business General,I     ,I     ,M4T,150692,Dean                             ,1, ,0,0,0,0,0,0
+94354,1978,I     ,A     ,Parent,BS    ,Art,I     ,A     ,M4P,76675,Supply Chain,1, ,0,0,0,0,0,0
+94325,1992,I     ,A     , ,BS    ,Health Science,I     ,A     ,M5R,96285,                                                  ,2, ,0,0,0,0,0,0
+94337,1980,I     ,A     , ,MBA   ,Business General,      ,      ,M2N,68333,                                                  ,1, ,0,0,0,0,0,0
+94382,2003,I     ,A     , ,BFA   ,Art,      ,      ,M5P,119364,Graphic Designer                                  ,0, ,0,0,0,0,0,0
+94454,1974,I     ,A     , ,BS    ,Group SS Soc,      ,      ,M3B,111062,Educator                                          ,0, ,0,0,0,0,0,0
+94460,2000,I     ,A     , ,BS    ,Information Systems,      ,      ,M5J,92668,"Director, Enterprise Infrastructure               ",2, ,0,0,0,0,0,0
+94442,1998,I     ,A     , ,BSE   ,Engineering,I     ,A     ,M5V,79018,Product Develop  Engr                             ,2, ,0,0,0,0,0,0
+94469,2003,I     ,A     , ,BA    ,English Language and Literature,      ,      ,M6M,49028,                                                  ,2, ,0,0,0,0,0,0
+94609,1997,I     ,A     , ,BBA   ,Accounting,I     ,A     ,M6H,57309,                                                  ,1, ,0,0,0,0,0,0
+94808,2000,I     ,A     ,Parent,BA    ,French,I     ,A     ,M5J,92668,3rd Grade Teacher                                 ,1, ,0,0,0,0,0,0
+94904,2005,I     ,A     , ,BS    ,History,      ,      ,M1N,75900,                                                  ,1, ,0,0,0,0,0,0
+94845,1991,I     ,A     , ,MSW   ,Social Work,      ,      ,M3H,68796,Clinician                                         ,2, ,0,0,0,0,0,0
+94922,1990,I     ,A     , ,MPA   ,Public Administration,I     ,I     ,M5B,63763,                                                  ,0, ,0,0,0,0,0,0
+94830,1996,I     ,A     , ,MSW   ,Social Work,I     ,I     ,M5M,135475,                                                  ,1, ,0,0,0,0,0,0
+95077,1982,I     ,A     ,Parent,BS    ,Mathematics,I     ,A     ,M6M,49028,Superintendent of Schools                         ,3, ,0,0,0,0,0,0
+95335,1983,I     ,A     ,Parent,BBA   ,Business General,      ,      ,M1B,65192,Vice President                                    ,1, ,0,0,0,0,0,0
+95405,1983,I     ,A     ,Parent,BS    ,Special Education,      ,      ,M3H,68796,Exhibit Preparator                                ,3,1/29/1997,0,0,0,0,0,10
+95495,1985,I     ,A     ,Parent,BS    ,Advertising & Public Relations,      ,      ,M4P,76675,Stategic Account Manager                          ,11,4/20/2015,0,2,0,1200,1000,3040
+95460,1999,I     ,A     , ,BBA   ,Marketing,I     ,A     ,M1H,58876,CEO                                               ,0, ,0,0,0,0,0,0
+95497,2002,I     ,A     , ,BS    ,Occup Safety/Health Management,I     ,A     ,M2N,68333,Manager                                           ,5, ,0,0,0,0,0,0
+95649,1998,I     ,A     , ,BA    ,English Language and Literature,      ,      ,M1B,65192,Administrative Assistant                          ,2,10/25/2007,0,0,0,0,0,10
+95725,2004,I     ,A     , ,BSN   ,Nursing,      ,      ,M5V,79018,Surgical Case Manager                             ,0, ,0,0,0,0,0,0
+95762,2001,I     ,A     , ,BS    ,Criminal Justice,      ,      ,M6P,68781,Social Worker                                     ,0,4/23/2009,0,0,0,0,0,25
+95890,1987,I     ,A     ,Parent,BS    ,Criminal Justice,      ,      ,M6P,68781,Teacher                                           ,1, ,0,0,0,0,0,0
+95905,1989,I     ,A     , ,BS    ,Physical Education,      ,      ,M6H,57309,                                                  ,0,1/18/2007,0,0,0,0,0,150
+96114,2000,I     ,A     , ,BS    ,Economics,      ,      ,M1H,58876,Financial Specialist                              ,1, ,0,0,0,0,0,0
+96117,1993,I     ,A     , ,BS    ,Biology,      ,      ,M1N,75900,Industrial Hygienist                              ,1, ,0,0,0,0,0,0
+96275,2005,I     ,A     , ,BSE   ,Engineering,      ,      ,M5V,79018,Mechanical Engineering                            ,1, ,0,0,0,0,0,0
+96344,2005,I     ,A     , ,BS    ,Physical Education,      ,      ,M6P,68781,Case Coordinator                                  ,1, ,0,0,0,0,0,0
+96433,2000,I     ,A     , ,BS    ,Occup Safety/Health Management,      ,      ,M2N,68333,Safety Spec                                       ,1, ,0,0,0,0,0,0
+96358,2001,I     ,A     , ,BBA   ,Finance,      ,      ,M5G,51478,                                                  ,0, ,0,0,0,0,0,0
+96460,2003,I     ,A     , ,BS    ,Criminal Justice,I     ,A     ,M5J,92668,Police Officer                                    ,4, ,0,0,0,0,0,0
+96437,1996,I     ,A     , ,BA    ,International Relations,      ,      ,M5S,80977,                                                  ,4, ,0,0,0,0,0,0
+96844,1979,I     ,A     , ,MBA   ,Management,I     ,A     ,M5T,40061,Exec. Marketing Consultant                        ,10,11/13/2015,0,8,500,500,500,11550
+97021,1978,I     ,A     , ,BS    ,Political Science,      ,      ,M4N,156174,National Accounts Manager                         ,4,4/4/2012,0,0,0,0,0,750
+96864,1980,I     ,A     , ,BS    ,Physical Education,      ,      ,M5J,92668,Tchr                                              ,2, ,0,0,0,0,0,0
+96885,2003,I     ,A     , ,MED   ,General Education,I     ,A     ,M5R,96285,Teacher                                           ,0, ,0,0,0,0,0,0
+96977,1980,I     ,A     , ,BS    ,Mathematics,      ,      ,M6N,57378,Math Teacher/Baseball Coach                       ,2, ,0,0,0,0,0,0
+97286,1994,I     ,A     , ,BFA   ,Art,      ,      ,M4L,74448,Multimedia Sr. Designer                           ,0, ,0,0,0,0,0,0
+97319,2000,I     ,A     , ,BME   ,Music,      ,      ,M6P,68781,Band Director                                     ,3, ,0,0,0,0,0,0
+97344,2002,I     ,A     , ,BA    ,English Language and Literature,      ,      ,M3K,60887,Teacher                                           ,1, ,0,0,0,0,0,0
+97503,2002,I     ,A     , ,BFA   ,Art,I     ,A     ,M5B,63763,                                                  ,0, ,0,0,0,0,0,0
+98018,2004,I     ,A     , ,BS    ,Health Science,      ,      ,M1B,65192,                                                  ,0, ,0,0,0,0,0,0
+97896,2001,I     ,A     , ,BS    ,Health Science,      ,      ,M3J,49625,                                                  ,2, ,0,0,0,0,0,0
+98239,1982,I     ,A     ,Parent,BS    ,GRP SCI Chem,      ,      ,M2N,68333,                                                  ,1, ,0,0,0,0,0,0
+98186,1976,I     ,A     ,Parent,BS    ,Business General,      ,      ,M6L,51191,President                                         ,2, ,0,0,0,0,0,0
+98422,1986,I     ,A     , ,MBA   ,Management,      ,      ,M5J,92668,Math Teacher                                      ,0, ,0,0,0,0,0,0
+98482,1978,I     ,A     ,Parent,BS    ,Computer Science,      ,      ,M4W,129818,Chair & CEO Coach                             ,3, ,0,0,0,0,0,0
+98494,1980,I     ,A     , ,BS    ,Physical Education,      ,      ,M1L,48164,Elementary Physical Education                     ,4,10/21/2013,0,2,0,0,50,375
+99058,2001,I     ,A     , ,BS    ,Psychology,      ,      ,M1N,75900,Factory Worker                                    ,1, ,0,0,0,0,0,0
+99177,1996,I     ,A     , ,BS    ,Liberal Studies,      ,      ,M5J,92668,Sales                                             ,0, ,0,0,0,0,0,100
+99209,1994,I     ,A     , ,BBA   ,Marketing,      ,      ,M4T,150692,Field Marketing Representative                    ,3, ,0,0,0,0,0,0
+99276,2000,I     ,A     , ,BS    ,GRO Social Studies,I     ,A     ,M5V,79018,                                                  ,3, ,0,0,0,0,0,0
+99511,2001,I     ,A     , ,BS    ,Legal Studies,      ,      ,M5V,79018,                                                  ,0, ,0,0,0,0,0,0
+99528,2001,I     ,A     , ,BS    ,Physical Education,      ,      ,M5J,92668,Registered Nurse                                  ,1, ,0,0,0,0,0,0
+99420,2000,I     ,A     , ,BA    ,Philosophy,I     ,A     ,M1B,65192,Clerk                                     ,3, ,0,0,0,0,0,0
+99637,2000,I     ,A     , ,BS    ,GRO Social Studies,I     ,A     ,M5J,92668,Teacher                                           ,1, ,0,0,0,0,0,0
+99618,1997,I     ,A     , ,BBA   ,Management,I     ,A     ,M4P,76675,Police Officer                                    ,4,10/19/2015,0,0,20,0,0,120
+99821,2002,I     ,A     , ,BS    ,Criminal Justice,I     ,A     ,M5B,63763,                                                  ,3, ,0,0,0,0,0,0
+99806,2002,I     ,A     , ,BBA   ,International Business,      ,      ,M4S,95168,Sales Manager                                     ,2,12/21/1998,0,0,0,0,0,1
+99903,1975,I     ,A     , ,BS    ,Art,      ,      ,M5S,80977,Prof  of Media Sciences                           ,0, ,0,0,0,0,0,0
+100033,2005,I     ,A     , ,MED   ,General Education,      ,      ,M5G,51478,                                                  ,0, ,0,0,0,0,0,0
+100063,1989,I     ,A     , ,BS    ,Criminal Justice,      ,      ,M6K,43527,Branch Manager                                    ,1,10/17/1991,0,0,0,0,0,75
+100065,1977,I     ,A     , ,BS    ,Psychology,      ,      ,M2N,68333,Educaitonal Consultant                            ,4,6/5/2012,0,0,0,0,0,750
+100159,1987,I     ,A     , ,BS    ,Criminal Justice,      ,      ,M6J,63464,US Marshall                                       ,3, ,0,0,0,0,0,0
+100036,1987,I     ,A     ,Parent,BS    ,Health Science,      ,      ,M5T,40061,Social Worker                                     ,0, ,0,0,0,0,0,0
+100161,1981,I     ,A     ,Parent,BS    ,Criminal Justice,      ,      ,M3C,53636,Deputy Sheriff                                    ,2, ,0,0,0,0,0,0
+100496,1991,I     ,A     , ,BBA   ,Finance,      ,      ,M5J,92668,Manager                                           ,0, ,0,0,0,0,0,0
+100820,2001,I     ,A     , ,BS    ,Physics,I     ,A     ,M3H,68796,9th and 10th Grade Math Teacher                   ,1, ,0,0,0,0,0,0
+100972,2002,I     ,A     , ,MED   ,General Education,I     ,I     ,M6L,51191,Athletic Director/Assistant Principal             ,0, ,0,0,0,0,0,0
+100873,1997,I     ,A     , ,BS    ,Group Science,I     ,A     ,M6P,68781,3rd Grade Teacher                                 ,14,11/18/2015,0,4,50,450,450,2007
+101095,2001,I     ,A     , ,MBA   ,Business General,      ,      ,M5V,79018,Senior Loan Officer                               ,0, ,0,0,0,0,0,0
+101209,2001,I     ,A     , ,BA    ,Sociology,      ,      ,M5S,80977,                                                  ,1, ,0,0,0,0,0,0
+101230,2001,I     ,A     , ,BA    ,Psychology,I     ,A     ,M4E,99523,                                                  ,2, ,0,0,0,0,0,0
+101193,2004,I     ,A     , ,BSW   ,Social Work,      ,      ,M1N,75900,International Consultant/Caseworker               ,1, ,0,0,0,0,0,0
+101229,2006,I     ,A     , ,BBA   ,Management,      ,      ,M6N,57378,Manager                                           ,3, ,0,0,0,0,0,0
+101281,2005,I     ,A     , ,BBA   ,Finance,I     ,A     ,M5V,79018,Search Consultant                                 ,8,12/29/2015,0,4,140,100,150,890
+101636,1977,I     ,A     , ,BBA   ,Accounting,      ,      ,M5J,92668,                                                  ,4,3/15/2006,0,0,0,0,0,150
+101609,1976,I     ,A     , ,BS    ,Computer Science,      ,      ,M5R,96285,Auto Sales                                        ,2, ,0,0,0,0,0,0
+101813,1977,I     ,A     , ,BS    ,Art,      ,      ,M2N,68333,Tchr                                              ,1, ,0,0,0,0,0,0
+101674,1995,I     ,A     ,Parent,MBA   ,Business General,I     ,P     ,M1S,58417,President                                         ,1, ,0,0,0,0,0,0
+101974,1991,I     ,A     , ,BBA   ,Marketing,I     ,A     ,M2N,68333,Senior Account Manager                            ,51,11/13/2015,0,10,20,270,150,3165
+101873,1986,I     ,A     , ,MED   ,Special Education,      ,      ,M5G,51478,Special Educ  Tchr                                ,0, ,0,0,0,0,0,0
+101786,1983,I     ,A     , ,BBA   ,Business General,      ,      ,M2N,68333,Co-Owner                                          ,1, ,0,0,0,0,0,0
+101825,1983,I     ,A     ,Parent,BBA   ,Business General,      ,      ,M6P,68781,Custodian                                         ,1, ,0,0,0,0,0,0
+102006,1984,I     ,A     , ,BS    ,Criminal Justice,      ,      ,M6R,78744,Football Coach                                    ,1, ,0,0,0,0,0,0
+102170,2001,I     ,A     , ,MED   ,General Education,      ,      ,M6E,60096,Teacher               ,1, ,0,0,0,0,0,0
+102198,1994,I     ,A     , ,BS    ,Health Science,      ,      ,M5R,96285,Physical Therapist                                ,2, ,0,0,0,0,0,0
+102247,1996,I     ,A     , ,BS    ,Criminal Justice,      ,      ,M6P,68781,Cadet                                             ,2, ,0,0,0,0,0,0
+102512,1985,I     ,A     , ,BS    ,Physical Therapy,      ,      ,M5J,92668,                                                  ,2,3/27/2013,0,0,0,0,0,125
+102531,2002,I     ,A     , ,BA    ,Criminal Justice,I     ,A     ,M6L,51191,                                                  ,1, ,0,0,0,0,0,0
+102656,1992,I     ,A     , ,BSN   ,Nursing,I     ,A     ,M5V,79018,Registered Nurse                                  ,3,12/11/2015,0,0,1000,0,0,1835
+102610,1999,I     ,A     , ,BS    ,Psychology,      ,      ,M3K,60887,Independent Consultant                            ,1, ,0,0,0,0,0,0
+102646,2005,I     ,A     , ,BBA   ,Management,      ,      ,M5A,43816,                                                  ,2, ,0,0,0,0,0,0
+103097,2003,I     ,A     , ,BBA   ,Finance,      ,      ,M5S,80977,Business Development Manager                      ,1, ,0,0,0,0,0,0
+103235,1975,I     ,A     ,Parent,BBA   ,Business General,      ,      ,M5S,80977,Registered Nurse                                  ,1, ,0,0,0,0,0,0
+103405,1976,I     ,A     , ,BS    ,Physical Education,      ,      ,M5S,80977,Basketball Coach                                  ,1, ,0,0,0,0,0,0
+103334,1986,I     ,A     , ,MST   ,Taxation,      ,      ,M4M,59723,Chief Executive Officer                           ,0, ,0,0,0,0,0,0
+103554,1983,I     ,A     ,Parent,BA    ,Criminal Justice,      ,      ,M5T,40061,                                                  ,1, ,0,0,0,0,0,0
+103729,2005,I     ,A     , ,MED   ,General Education,      ,      ,M1L,48164,Special Education Teacher                         ,0, ,0,0,0,0,0,0
+103926,1984,I     ,A     , ,BS    ,Health Science,      ,      ,M6H,57309,Medical Technologist                              ,1, ,0,0,0,0,0,0
+103812,1984,I     ,A     , ,BS    ,Health Science,      ,      ,M5R,96285,Information Technology Manager                    ,1, ,0,0,0,0,0,0
+104454,2005,I     ,A     , ,BS    ,Health Science,I     ,A     ,M1L,48164,                                                  ,1, ,0,0,0,0,0,0
+104663,2004,I     ,A     , ,BS    ,Psychology,      ,      ,M5S,80977,Paraprofessional                                  ,1, ,0,0,0,0,0,0
+104872,2003,I     ,A     , ,BS    ,Physical Education,      ,      ,M5J,92668,City Manager / Branch Manager                     ,1, ,0,0,0,0,0,0
+104781,1999,I     ,A     , ,BBA   ,Management,      ,      ,M2N,68333,Process Engineer                                  ,4,1/24/2001,0,0,0,0,0,50
+104900,1981,I     ,A     , ,BS    ,Criminal Justice,      ,      ,M6P,68781,Chief                                             ,3, ,0,0,0,0,0,0
+104857,1977,I     ,A     , ,BS    ,Behavioral Science,      ,      ,M5T,40061,Attorney                                          ,1,10/18/2009,0,0,0,0,0,475
+105056,1988,I     ,A     ,Parent,BBA   ,Management,I     ,P     ,M6P,68781,Human Resources Director                          ,0, ,0,0,0,0,0,0
+105253,1986,I     ,A     , ,BS    ,GRP SS Hist,      ,      ,M6N,57378,Principal                                         ,1, ,0,0,0,0,0,0
+105034,1983,I     ,A     ,Parent,BBA   ,Accounting,      ,      ,M6J,63464,Finance Manager                                   ,4, ,0,0,0,0,0,0
+105234,1985,I     ,A     , ,BS    ,Special Education,      ,      ,M5J,92668,Second Grade Teacher                              ,0, ,0,0,0,0,0,0
+105515,1997,I     ,A     , ,BBA   ,Accounting,      ,      ,M5B,63763,                                                  ,1, ,0,0,0,0,0,0
+105543,1984,I     ,A     ,Parent,BS    ,Psychology,I     ,P     ,M4C,60310,Child Care Worker                                 ,2, ,0,0,0,0,0,0
+105496,1985,I     ,A     , ,BA    ,History,I     ,A     ,M5S,80977,Self Employed                                     ,1,11/17/1999,0,0,0,0,0,20
+105761,1982,I     ,A     ,Parent,BS    ,Criminal Justice,I     ,A     ,M1E,64284,Detective Sergeant                                ,3, ,0,0,0,0,0,0
+105950,1989,I     ,A     ,Parent,BBA   ,Accounting,      ,      ,M6P,68781,Self-Employed                                     ,1, ,0,0,0,0,0,0
+105936,2003,I     ,A     , ,BS    ,Statistics,      ,      ,M5R,96285,                                                  ,10,12/30/2005,0,0,0,0,0,500
+106001,1989,I     ,A     , ,BS    ,Group SCI Math,      ,      ,M1H,58876,2nd GradeTeacher                                  ,1, ,0,0,0,0,0,0
+106051,1991,I     ,A     , ,MBA   ,Accounting,      ,      ,M5S,80977,Controller                                        ,5,10/13/2015,0,0,25,25,0,455
+106266,1993,I     ,A     , ,BBA   ,Accounting,      ,      ,M5S,80977,Senior Tax                                        ,3, ,0,0,0,0,0,0
+106288,2005,I     ,A     , ,BS    ,Political Science,      ,      ,M6L,51191,Service                                           ,0, ,0,0,0,0,0,0
+106526,2004,I     ,A     , ,BA    ,Communications,      ,      ,M6M,49028,National Client Account Manger                    ,1, ,0,0,0,0,0,0
+106536,2003,I     ,A     , ,BBA   ,Accounting,      ,      ,M6L,51191,Owner                                             ,1, ,0,0,0,0,0,0
+106605,1989,I     ,A     , ,BS    ,Physical Education,      ,      ,M5B,63763,Dental Hygienist                                  ,0, ,0,0,0,0,0,0
+106689,1982,I     ,A     , ,BS    ,Criminal Justice,      ,      ,M5M,135475,Police Sergeant                                   ,2, ,0,0,0,0,0,0
+106864,1979,I     ,A     , ,BS    ,Environmental Studies,      ,      ,M3K,60887,President/Owner                                   ,2, ,0,0,0,0,0,0
+106809,1990,I     ,A     , ,MBA   ,Business and Taxation,      ,      ,M5B,63763,Tax Manager                                 ,0, ,0,0,0,0,0,0
+107006,1975,I     ,A     , ,BA    ,Political Science,      ,      ,M5M,135475,Attorney                                          ,1,12/31/1997,0,0,0,0,0,2675
+106992,1986,I     ,A     , ,BBA   ,Marketing,      ,      ,M3B,111062,Accountant                               ,0, ,0,0,0,0,0,0
+107097,2005,I     ,A     ,Parent,MED   ,General Education,I     ,A     ,M2N,68333,Teacher                                           ,0, ,0,0,0,0,0,0
+107043,1978,I     ,A     , ,BS    ,Geology,      ,      ,M6H,57309,Professor PhD                                     ,4,10/30/2012,0,0,0,0,0,960
+107143,1994,I     ,A     , ,BS    ,Psychology,I     ,A     ,M4C,60310,Special Educ  Teacher                             ,0,6/8/2011,0,0,0,0,0,500
+107347,1980,I     ,A     , ,BS    ,Special Education,I     ,P     ,M3K,60887,Substitute Teacher                                ,1, ,0,0,0,0,0,0
+107275,2001,I     ,A     , ,BME   ,Music,I     ,A     ,M5H,117919,Band Director                                     ,1, ,0,0,0,0,0,0
+107591,2000,I     ,A     , ,BS    ,Public Administration,      ,      ,M5J,92668,Event Services Director                           ,2, ,0,0,0,0,0,0
+107713,2004,I     ,A     , ,BS    ,Criminal Justice,      ,      ,M5V,79018,Sheriff Deputy                                    ,3, ,0,0,0,0,0,25
+107709,2002,I     ,A     , ,MED   ,General Education,      ,      ,M6P,68781,                                                  ,0, ,0,0,0,0,0,0
+107974,1993,I     ,A     , ,BBA   ,Finance,      ,      ,M5J,92668,                                                  ,1, ,0,0,0,0,0,0
+107993,2004,I     ,A     , ,BS    ,Psychology,      ,      ,M6A,52149,Teacher                                           ,1, ,0,0,0,0,0,0
+108007,1999,I     ,A     , ,BSN   ,Nursing,I     ,I     ,M5S,80977,Nurse Practitioner                                ,1,8/15/2003,0,0,0,0,0,60
+107957,2003,I     ,A     , ,BS    ,Computer Science,I     ,A     ,M5M,135475,Product Verification Technical Lead               ,4, ,0,0,0,0,0,0
+107982,2003,I     ,A     , ,BSN   ,Nursing,      ,      ,M3K,60887,BSN                                               ,0, ,0,0,0,0,0,0
+108452,1989,I     ,A     , ,MED   ,Special Education,      ,      ,M6P,68781,Principal                                         ,1, ,0,0,0,0,0,0
+108436,1985,I     ,A     , ,BSN   ,Nursing,      ,      ,M5T,40061,Clinical Supv                                     ,1,4/24/2012,0,0,0,0,0,75
+108492,1983,I     ,A     , ,BS    ,Computer Science,I     ,I     ,M5E,94414,Director - Global eBusiness                       ,1, ,0,0,0,0,0,0
+108567,1989,I     ,A     , ,BS    ,Advertising & Public Relations,      ,      ,M5J,92668,Pres./Creative Dir.                               ,1, ,0,0,0,0,0,0
+108519,1980,I     ,A     , ,BSW   ,Social Work,      ,      ,M5J,92668,                                                  ,1, ,0,0,0,0,0,0
+109053,2000,I     ,A     , ,BBA   ,Management,      ,      ,M5J,92668,"Vice President, Director of Human Resources       ",2, ,0,0,0,0,0,0
+109073,2003,I     ,A     , ,BS    ,Hospitality Tourism Mgt,      ,      ,M1B,65192,Manager                                           ,1, ,0,0,0,0,0,0
+109167,2003,I     ,A     , ,BS    ,Psychology,      ,      ,M5B,63763,Self-Employed                                     ,1, ,0,0,0,0,0,0
+109157,2001,I     ,A     , ,BSN   ,Nursing,      ,      ,M5M,135475,Registered Nurse                                  ,3, ,0,0,0,0,0,0
+109256,2003,I     ,A     , ,MED   ,General Education,      ,      ,M6B,63133,8th Grade English Teacher                         ,0, ,0,0,0,0,0,0
+109223,1997,I     ,A     , ,BS    ,Therapeutic Recreation,      ,      ,M5J,92668,Tchr                                              ,1, ,0,0,0,0,0,0
+109419,2003,I     ,A     ,Parent,MED   ,General Education,      ,      ,M2N,68333,Elementary Education                              ,0, ,0,0,0,0,0,0
+109341,2002,I     ,A     , ,BS    ,Health Science,      ,      ,M5E,94414,                                                  ,1, ,0,0,0,0,0,0
+109415,1999,I     ,A     , ,BS    ,Health Science,      ,      ,M5J,92668,                                                  ,1, ,0,0,0,0,0,0
+109514,1999,I     ,A     , ,BA    ,English Language and Literature,      ,      ,M5N,124397,English Teacher                                   ,3, ,0,0,0,0,0,0
+109720,2004,I     ,A     , ,MED   ,Reading,      ,      ,M5G,51478,Teacher                                           ,0, ,0,0,0,0,0,0
+109588,2001,I     ,A     , ,BBA   ,Finance,I     ,A     ,M3H,68796,                                                  ,0, ,0,0,0,0,0,0
+109592,1995,I     ,A     , ,BS    ,Criminal Justice,      ,      ,M1N,75900,Sales Eng/Paper Mill Applications Spec            ,1,10/10/2007,0,0,0,0,0,200
+109566,2003,I     ,A     , ,BS    ,Earth Science,      ,      ,M5V,79018,VP                                                ,2, ,0,0,0,0,0,0
+109752,1977,I     ,A     , ,BBA   ,Business General,I     ,A     ,M6K,43527,Self-employed                                     ,1, ,0,0,0,0,0,0
+109984,1981,I     ,A     ,Parent,BS    ,Special Education,      ,      ,M5B,63763,Special Education Teacher                         ,1, ,0,0,0,0,0,0
+109956,1980,I     ,A     , ,BS    ,Natural Resource Management,I     ,A     ,M5S,80977,Managing Director                                 ,3, ,0,0,0,0,0,0
+110099,1981,I     ,A     , ,BBA   ,Marketing,      ,      ,M5J,92668,National Acct. Exe.                               ,1,4/9/2008,0,0,0,0,0,150
+110141,2003,I     ,A     , ,MS    ,Criminal Justice,      ,      ,M5A,43816,                                                  ,0, ,0,0,0,0,0,0
+110155,1981,I     ,A     ,Parent,BS    ,Nursing,I     ,P     ,M5J,92668,Registered Nurse                                  ,1, ,0,0,0,0,0,0
+110246,2002,I     ,A     , ,BSN   ,Nursing,      ,      ,M5B,63763,                                                  ,0, ,0,0,0,0,0,0
+110246,1986,I     ,A     , ,BS    ,Biology,      ,      ,M6N,57378,Environmental Quality Analyst                     ,2, ,0,0,0,0,0,0
+110515,1989,I     ,A     ,Parent,BS    ,Mathematics,      ,      ,M5J,92668,Teacher                                           ,2, ,0,0,0,0,0,0
+111007,1999,I     ,A     , ,BSE   ,Engineering,I     ,A     ,M1B,65192,Biomedical Equipment Technician                   ,1, ,0,0,0,0,0,0
+111235,2001,I     ,A     , ,BS    ,Information Systems,      ,      ,M5J,92668,Project Manager Consultant                        ,1, ,0,0,0,0,0,0
+111361,2001,I     ,A     , ,BS    ,Criminal Justice,      ,      ,M5J,92668,                                                  ,1, ,0,0,0,0,0,0
+111365,2003,I     ,A     , ,BS    ,Public Administration,      ,      ,M5V,79018,Coordinator of Recruitment & Retention            ,1, ,0,0,0,0,0,0
+111544,1979,I     ,A     ,Parent,MPA   ,Management,      ,      ,M6L,51191,                                                  ,1, ,0,0,0,0,0,0
+111456,2001,I     ,A     , ,MPA   ,Public Administration,      ,      ,M2N,68333,Manager of Records                                ,0, ,0,0,0,0,0,0
+111795,1980,I     ,A     , ,BS    ,Art,      ,      ,M2N,68333,Teacher                                           ,1, ,0,0,0,0,0,0
+111832,2005,I     ,A     , ,MED   ,General Education,      ,      ,M6P,68781,Teacher                                           ,0, ,0,0,0,0,0,0
+112131,1984,I     ,A     , ,BS    ,Art,      ,      ,M6R,78744,Art Director                                      ,1,10/4/2011,0,0,0,0,0,325
+112009,1987,I     ,A     ,Parent,BBA   ,Accounting,      ,      ,M5J,92668,Chief Financial Officer                           ,1, ,0,0,0,0,0,0
+112098,1994,I     ,A     , ,BS    ,Physical Education,I     ,A     ,M2L,116538,Tchr  Physical Educ                               ,2, ,0,0,0,0,0,0
+112137,1990,I     ,A     , ,BBA   ,Management,      ,      ,M1P,54560,President                                         ,0, ,0,0,0,0,0,0
+112393,2002,I     ,A     , ,BBA   ,Marketing,      ,      ,M5S,80977,National Account Manager                          ,2, ,0,0,0,0,0,0
+112460,2002,I     ,A     , ,BBA   ,Management,I     ,A     ,M1S,58417,                                                  ,0,4/18/2007,0,0,0,0,0,50
+112522,2002,I     ,A     , ,BBA   ,Management,I     ,A     ,M5J,92668,Product Dev. Manager                              ,1, ,0,0,0,0,0,0
+112800,2000,I     ,A     , ,BBA   ,Marketing,I     ,A     ,M3K,60887,                                                  ,2, ,0,0,0,0,0,0
+112762,2003,I     ,A     , ,BBA   ,Finance,      ,      ,M2N,68333,                                                  ,1, ,0,0,0,0,0,0
+112787,2002,I     ,A     , ,BA    ,English Language and Literature,      ,      ,M6N,57378,Teacher                                           ,0, ,0,0,0,0,0,0
+112984,2004,I     ,A     , ,BS    ,Mathematics,      ,      ,M3K,60887,High School Math Teacher                          ,1, ,0,0,0,0,0,0
+112912,2002,I     ,A     , ,BS    ,GRO Social Studies,      ,      ,M5S,80977,                                                  ,12,4/3/2014,0,2,0,0,300,650
+113277,1980,I     ,A     , ,BS    ,Biology,      ,      ,M6J,63464,                                                  ,4,10/6/2015,0,2,1000,0,3500,6550
+113241,1986,I     ,A     , ,BS    ,Physical Therapy,      ,      ,M1H,58876,                                                  ,0, ,0,0,0,0,0,0
+113279,1980,I     ,A     , ,BS    ,Psychology,      ,      ,M4E,99523,"Director, Counseling Services                     ",1, ,0,0,0,0,0,0
+113412,2004,I     ,A     ,Parent,BSN   ,Nursing - RN,I     ,P     ,M4C,60310,                                                  ,1, ,0,0,0,0,0,0
+113591,1980,I     ,A     , ,BBA   ,Business General,      ,      ,M3H,68796,President                                         ,0, ,0,0,0,0,0,0
+113588,1987,I     ,A     ,Parent,BS    ,Criminal Justice,      ,      ,M2N,68333,Sergeant                                          ,2, ,0,0,0,0,0,0
+113789,1987,I     ,A     , ,BS    ,GRP SS Psych,      ,      ,M5V,79018,Teacher                                           ,1, ,0,0,0,0,0,0
+113829,1988,I     ,A     , ,BS    ,Hospitality Tourism Mgt,      ,      ,M4S,95168,                                                  ,0, ,0,0,0,0,0,0
+114106,1994,I     ,A     , ,BBA   ,Accounting,      ,      ,M6L,51191,Accountant                                        ,9,11/11/2009,0,0,0,0,0,1225
+114662,2003,I     ,A     , ,MSW   ,Social Work,      ,      ,M5V,79018,Manager of Case Management                        ,0, ,0,0,0,0,0,0
+114740,2001,I     ,A     , ,BA    ,English Language and Literature,I     ,A     ,M6H,57309,High School English Teacher                       ,2, ,0,0,0,0,0,0
+114615,2001,I     ,A     , ,BBA   ,Finance,      ,      ,M6J,63464,                                                  ,0, ,0,0,0,0,0,0
+114944,1973,I     ,A     , ,BBA   ,Business General,      ,      ,M1B,65192,                                                  ,0, ,0,0,0,0,0,0
+114991,1981,I     ,A     , ,BS    ,Geology,      ,      ,M6N,57378,                                                  ,6,10/15/2015,0,2,25,25,25,170
+114820,1997,I     ,A     , ,MED   ,General Education,      ,      ,M5M,135475,                                                  ,2, ,0,0,0,0,0,0
+114959,1984,I     ,A     , ,MST   ,Taxation,      ,      ,M5J,92668,CFO                                               ,2, ,0,0,0,0,0,0
+115103,1976,I     ,A     , ,MBA   ,Finance,      ,      ,M4T,150692,"Writer, Editor                                    ",2, ,0,0,0,0,0,0
+115097,1987,I     ,A     ,Parent,BBA   ,Management,      ,      ,M6P,68781,Engrg  Tech                                       ,1, ,0,0,0,0,0,0
+115178,1973,I     ,A     , ,BS    ,Social Relations,      ,      ,M6M,49028,                                                  ,0, ,0,0,0,0,0,0
+115150,1980,I     ,A     , ,BM    ,Music,I     ,I     ,M5S,80977,Fashion Consultant                                ,5,10/25/2010,0,0,0,0,0,495
+115014,1977,I     ,A     ,Parent,BA    ,Mathematics,      ,      ,M6L,51191,                                                  ,1, ,0,0,0,0,0,0
+115190,2002,I     ,A     , ,MED   ,General Education,      ,      ,M1H,58876,4th Grade Teacher                                 ,0, ,0,0,0,0,0,0
+115203,1978,I     ,A     , ,BA    ,Art,      ,      ,M5A,43816,Associate Professor                               ,2, ,0,0,0,0,0,0
+115363,1980,I     ,A     , ,BBA   ,Marketing,      ,      ,M5N,124397,Director of Sponsorship Sales                     ,5,4/19/2012,0,0,0,0,0,1400
+115500,1986,I     ,A     , ,BA    ,Liberal Studies,      ,      ,M5G,51478,                                                  ,0, ,0,0,0,0,0,0
+115569,1984,I     ,A     ,Parent,BS    ,Criminal Justice,      ,      ,M5J,92668,                                                  ,2, ,0,0,0,0,0,0
+115565,1987,I     ,A     , ,MBA   ,Management,      ,      ,M5S,80977,Human Resources Labor Relations Generalist        ,2, ,0,0,0,0,0,0
+115727,1983,I     ,A     ,Parent,BSN   ,Nursing,I     ,A     ,M3B,111062,Certified Disease Management                      ,9,3/19/2015,0,12,0,50,80,1190
+116005,2002,I     ,A     , ,BS    ,Film and Video,      ,      ,M5T,40061,Planetarium Manager                               ,2, ,0,0,0,0,0,0
+116209,2002,I     ,A     , ,BA    ,English Language and Literature,      ,      ,M4B,63005,Spanish Teacher                                   ,0,12/5/2006,0,0,0,0,0,5
+116440,1992,I     ,A     , ,BBA   ,Marketing,      ,      ,M1B,65192,Director of Operations                            ,2, ,0,0,0,0,0,0
+116630,2005,I     ,A     , ,BS    ,Communications,      ,      ,M5A,43816,Auditor                                           ,0, ,0,0,0,0,0,0
+116571,2002,I     ,A     , ,BA    ,Communications,      ,      ,M6P,68781,Musician                         ,0, ,0,0,0,0,0,0
+116769,2002,I     ,A     , ,BS    ,Criminal Justice,      ,      ,M6M,49028,Case Manager                                      ,1, ,0,0,0,0,0,0
+117253,1982,I     ,A     , ,BS    ,Psychology,      ,      ,M5T,40061,General Manager                                   ,2, ,0,0,0,0,0,0
+117482,1983,I     ,A     , ,BS    ,Nursing,      ,      ,M2N,68333,RN                                                ,1, ,0,0,0,0,0,0
+117535,1991,I     ,A     , ,BS    ,Biology,      ,      ,M3J,49625,                                                  ,1, ,0,0,0,0,0,0
+117533,1986,I     ,I     , ,      , ,      ,      ,M5B,63763,Teacher                                           ,0,10/24/2004,0,0,0,0,0,50
+117706,1990,I     ,A     ,Parent,BS    ,Art,      ,      ,M5S,80977,Producer                                          ,0, ,0,0,0,0,0,0
+117817,2000,I     ,A     , ,BBA   ,Marketing,      ,      ,M5J,92668,President                                         ,1, ,0,0,0,0,0,0
+117773,1990,I     ,A     , ,BBA   ,International Business,      ,      ,M3J,49625,Stay at Home Mom                                  ,9,10/20/2015,50,0,50,0,0,275
+117796,2002,I     ,A     ,Parent,BBA   ,Marketing,      ,      ,M1B,65192,Owner                                             ,1, ,0,0,0,0,0,0
+118302,2002,I     ,A     , ,BS    ,Physical Education,      ,      ,M5S,80977,Contract Employee                                 ,1, ,0,0,0,0,0,0
+118304,2002,I     ,A     , ,MED   ,General Education,      ,      ,M5T,40061,2nd Teacher                                       ,2, ,0,0,0,0,0,0
+118371,1998,I     ,A     , ,BS    ,Computer Science,      ,      ,M6H,57309,Computer Programer                                ,2, ,0,0,0,0,0,0
+118438,1989,I     ,A     , ,BS    ,Biomedical Sciences,      ,      ,M1E,64284,                                                  ,3,8/2/2012,0,0,0,0,0,100
+118640,1980,I     ,A     , ,MED   ,Special Education,      ,      ,M1B,65192,Special Ed Supv.                                  ,0, ,0,0,0,0,0,0
+118635,1977,I     ,A     , ,BBA   ,Marketing,      ,      ,M4T,150692,Regional Sales Manager                            ,1, ,0,0,0,0,0,0
+118854,1984,I     ,A     , ,BS    ,Chemistry,I     ,I     ,M2N,68333,Plant Manager                                     ,8,11/7/2015,0,10,350,250,150,1975
+118842,1989,I     ,A     , ,BS    ,Natural Sciences,      ,      ,M5J,92668,Capt. Fire Dept.                                  ,5, ,0,0,0,0,0,0
+118971,1991,I     ,A     , ,BS    ,Criminal Justice,      ,      ,M5V,79018,Vice President                                    ,2,3/24/1993,0,0,0,0,0,25
+119178,1996,I     ,A     , ,BS    ,GRP SS Psych,      ,      ,M6N,57378,Teacher                                           ,2, ,0,0,0,0,0,0
+119317,2009,I     ,A     , ,BA    ,English Language and Literature,S     ,I     ,M6L,51191,Tchr                                              ,7,9/11/2015,0,5,125,262,266,1170
+119596,1985,S     ,A     , ,BS    ,Liberal Studies,      ,      ,M1P,54560,Office Coordinator                                ,12,6/23/2015,0,0,0,25,0,65
+119645,2005,I     ,A     ,Parent,BS    ,Communications,      ,      ,M6P,68781,Owner                                             ,1, ,0,0,0,0,0,0
+120053,2003,I     ,A     , ,BM    ,Music,      ,      ,M4B,63005,Vocalist                                          ,2, ,0,0,0,0,0,0
+120283,2000,I     ,A     , ,BS    ,Information Systems,I     ,A     ,M5T,40061,                                                  ,2, ,0,0,0,0,0,0
+120146,1984,I     ,A     , ,MPA   ,Public Administration,      ,      ,M5A,43816,                                                  ,1, ,0,0,0,0,0,0
+120434,1989,I     ,A     ,Parent,BBA   ,Accounting,      ,      ,M6E,60096,Superintendent                                    ,3, ,0,0,0,0,0,0
+120530,1983,I     ,A     , ,BBA   ,Accounting,      ,      ,M6P,68781,                                                  ,0, ,0,0,0,0,0,0
+120738,1976,I     ,A     , ,BS    ,Nursing,      ,      ,M2N,68333,RN                                                ,5,10/29/2014,0,2,0,25,25,190
+120688,1996,I     ,A     ,Parent,BS    ,Physics,      ,      ,M6P,68781,Teacher                                           ,1, ,0,0,0,0,0,0
+120722,2000,I     ,A     , ,BS    ,Health Science,      ,      ,M4P,76675,Physical Therapist                                ,1,11/18/2008,0,0,0,0,0,50
+120954,1985,I     ,A     , ,BS    ,Computer Science,I     ,A     ,M5J,92668,Release Engineer                                  ,2, ,0,0,0,0,0,0
+121300,2004,I     ,A     , ,BS    ,Psychology,      ,      ,M5J,92668,                                                  ,2, ,0,0,0,0,0,0
+121308,2004,I     ,A     , ,BSE   ,Engineering,      ,      ,M3K,60887,Engineering Manager                               ,6, ,0,0,0,0,0,0
+121542,2001,I     ,A     , ,BBA   ,Accounting,      ,      ,M6A,52149,Co-Founder                                        ,3, ,0,0,0,0,0,0
+121940,2002,I     ,A     , ,MBA   ,Business General,      ,      ,M1P,54560,Sr. Industrial Engineer                           ,1, ,0,0,0,0,0,0
+121903,2001,I     ,A     , ,BS    ,Criminal Justice,      ,      ,M3N,45065,Sherriff                                          ,2, ,0,0,0,0,0,0
+121860,2005,I     ,A     , ,BA    ,Spanish,      ,      ,M1P,54560,                                                  ,2, ,0,0,0,0,0,0
+121923,1995,I     ,A     , ,BBA   ,Management,      ,      ,M5S,80977,Licensed Personal Banker                          ,1, ,0,0,0,0,0,0
+121954,1979,I     ,A     , ,BS    ,Psychology,I     ,A     ,M3H,68796,Licenceing                                        ,2,10/14/2009,0,0,0,0,0,225
+122049,1987,I     ,A     ,Parent,BS    ,Criminal Justice,      ,      ,M6L,51191,Retired                                           ,2, ,0,0,0,0,0,0
+122262,1986,I     ,A     , ,BS    ,Computer Science,      ,      ,M5S,80977,                                                  ,1, ,0,0,0,0,0,0
+122370,1980,I     ,A     , ,BS    ,Nursing,      ,      ,M5B,63763,Registered Nurse                                  ,1, ,0,0,0,0,0,0
+122301,1981,I     ,A     , ,BS    ,Chemistry,      ,      ,M3N,45065,Self-Employed-Farmer                              ,2, ,0,0,0,0,0,0
+122281,1977,I     ,A     , ,MED   ,Reading,I     ,P     ,M5B,63763,2nd Grade Teacher                                 ,5,3/4/2004,0,0,0,0,0,1895
+122342,1976,I     ,A     , ,BS    ,Special Education,I     ,A     ,M5J,92668,                                                  ,1, ,0,0,0,0,0,0
+122395,2004,I     ,A     , ,BS    ,History,I     ,A     ,M3B,111062,                                                  ,1, ,0,0,0,0,0,0
+122568,1986,I     ,A     , ,MED   ,Special Education,      ,      ,M3H,68796,Resource Room                                     ,0, ,0,0,0,0,0,0
+122867,2004,I     ,A     , ,BBA   ,Marketing,      ,      ,M5S,80977,President                                         ,1,12/18/2006,0,0,0,0,0,210
+123084,1989,I     ,A     , ,BBA   ,Business General,I     ,I     ,M6E,60096,                                                  ,7,4/21/2004,0,0,0,0,0,150
+123154,1987,I     ,A     , ,BS    ,Psychology,I     ,A     ,M6A,52149,Social Worker                                     ,1, ,0,0,0,0,0,0
+123353,2003,I     ,A     , ,BS    ,Advertising & Public Relations,      ,      ,M4L,74448,Production Manager                                ,1, ,0,0,0,0,0,0
+123426,2001,I     ,A     , ,BBA   ,Accounting,      ,      ,M5B,63763,Audit Manager                                     ,1, ,0,0,0,0,0,0
+123344,1999,I     ,A     , ,BS    ,Criminal Justice,I     ,A     ,M3H,68796,Police Officer                                    ,2, ,0,0,0,0,0,0
+123629,1991,I     ,A     , ,BBA   ,Marketing,      ,      ,M6L,51191,                                                  ,0,7/12/2006,0,0,0,0,0,20
+123562,2006,I     ,A     , ,BBA   ,Management,      ,      ,M6R,78744,Division Compliance Director                      ,2,3/19/1999,0,0,0,0,0,525
+123683,1968,I     ,A     , ,BA    ,Political Science,      ,      ,M3C,53636,Communications Intern                             ,4, ,0,0,0,0,0,0
+124105,1988,I     ,A     ,Parent,BA    ,GRO Soc Science,I     ,I     ,M5S,80977,                                                  ,2, ,0,0,0,0,0,0
+124143,1979,I     ,A     , ,BSW   ,Social Work,      ,      ,M5S,80977,Head Nurse Geriatrics                             ,0, ,0,0,0,0,0,0
+124272,1979,I     ,A     ,Parent,MSW   ,School Social Work,      ,      ,M3H,68796,Clinical Social Worker                            ,2, ,0,0,0,0,0,0
+124477,2001,I     ,A     ,Parent,BBA   ,Business General,      ,      ,M5J,92668,Owner                                             ,3, ,0,0,0,0,0,0
+124563,1984,I     ,A     , ,BBA   ,Marketing,      ,      ,M4T,150692,Sales Representative                              ,1, ,0,0,0,0,0,0
+124776,2005,I     ,A     , ,BS    ,Geology,      ,      ,M5M,135475,Senior Project Manager/Hydrogeologist             ,2, ,0,0,0,0,0,0
+124895,2002,I     ,A     , ,BS    ,Physical Education,      ,      ,M5J,92668,                                                  ,1, ,0,0,0,0,0,0
+125005,2003,I     ,A     , ,BA    ,Criminal Justice,      ,      ,M5V,79018,                                                  ,0, ,0,0,0,0,0,0
+125465,1978,I     ,A     , ,MED   ,General Education,      ,      ,M2N,68333,                                                  ,0, ,0,0,0,0,0,0
+125650,1978,I     ,A     , ,BBA   ,Accounting,      ,      ,M6A,52149,Accountant                                        ,7,12/14/2011,0,0,0,0,0,2725
+125797,1982,I     ,A     , ,BS    ,Legal Administration,      ,      ,M6P,68781,Attorney/Certified Public Account                 ,2,11/7/2006,0,0,0,0,0,300
+125785,2001,I     ,A     ,Parent,BS    ,Special Education,I     ,A     ,M6J,63464,                                                  ,1, ,0,0,0,0,0,0
+126023,1984,I     ,A     , ,MED   ,General Education,      ,      ,M5T,40061,Teacher                                           ,0, ,0,0,0,0,0,0
+126107,1976,I     ,A     , ,BS    ,Psychology,      ,      ,M1B,65192,                                                  ,0,6/28/2006,0,0,0,0,0,25
+126183,1996,I     ,A     ,Parent,BS    ,Special Education,      ,      ,M5T,40061,5th Grade Teacher                                 ,1, ,0,0,0,0,0,0
+126314,1988,I     ,A     , ,BS    ,Statistics,I     ,A     ,M5S,80977,Service Engineer                                  ,1, ,0,0,0,0,0,0
+126235,1982,I     ,A     , ,BS    ,Criminal Justice,      ,      ,M5S,80977,Police Ofcr                                       ,1, ,0,0,0,0,0,0
+126353,1984,I     ,A     , ,BS    ,Biology,      ,      ,M5S,80977,Diagnostic Radiologist                            ,2, ,0,0,0,0,0,0
+126508,1984,I     ,A     , ,BBA   ,Accounting,      ,      ,M5S,80977,CFO                                               ,1, ,0,0,0,0,0,0
+126513,2005,I     ,A     ,Parent,BS    ,Physical Education,      ,      ,M6P,68781,                                                  ,2, ,0,0,0,0,0,0
+126581,1986,I     ,A     , ,MED   ,Reading,      ,      ,M5B,63763,                                                  ,0, ,0,0,0,0,0,0
+126616,1997,I     ,A     , ,BBA   ,Marketing,I     ,A     ,M5T,40061,"Director, Human Resources                         ",7,12/11/2013,0,0,0,0,1500,1525
+126685,1999,I     ,A     , ,BS    ,Computer Science,I     ,A     ,M5B,63763,Network Engineer                                  ,1, ,0,0,0,0,0,500
+126682,2001,I     ,A     , ,BS    ,Economics,      ,      ,M4V,120678,Attorney                                          ,2, ,0,0,0,0,0,0
+126939,1994,I     ,A     , ,BS    ,Biology,      ,      ,M5T,40061,Adjuct Faculty                                    ,1, ,0,0,0,0,0,0
+126807,2004,I     ,A     , ,MBA   ,Business General,      ,      ,M5H,117919,North American Director of Sales                  ,1,3/12/1997,0,0,0,0,0,25
+126839,2003,I     ,A     , ,BS    ,Physical Education,I     ,A     ,M3J,49625,Teacher                                           ,2, ,0,0,0,0,0,0
+126834,1998,I     ,A     , ,BA    ,English Language and Literature,      ,      ,M6N,57378,1st Grade Teacher                                 ,0, ,0,0,0,0,0,0
+127081,2003,I     ,A     , ,BS    ,Biology,      ,      ,M5J,92668,Stay at home mom                                  ,2, ,0,0,0,0,0,0
+127007,2000,I     ,A     , ,BA    ,International Relations,      ,      ,M4V,120678,Managing Director                                 ,9,12/16/2015,0,3,1000,500,1200,4700
+127223,2002,I     ,A     , ,BS    ,Criminal Justice,I     ,A     ,M1H,58876,                                                  ,2, ,0,0,0,0,0,0
+127127,2000,I     ,A     , ,BBA   ,Marketing,I     ,A     ,M5B,63763,District Sales Manager                            ,1, ,0,0,0,0,0,0
+127239,2001,I     ,A     , ,BS    ,Criminal Justice,      ,      ,M1N,75900,Deputy                                            ,2, ,0,0,0,0,0,0
+127179,2004,I     ,A     , ,BS    ,Health Science,      ,      ,M3H,68796,Director of Activities                            ,2, ,0,0,0,0,0,0
+127313,2005,I     ,A     , ,BSE   ,Engineering,      ,      ,M5V,79018,                                                  ,1, ,0,0,0,0,0,0
+127370,2002,I     ,A     , ,BS    ,GRO Social Studies,      ,      ,M2N,68333,High School Teacher                               ,1, ,0,0,0,0,0,0
+127283,1982,I     ,A     , ,BA    ,Philosophy,      ,      ,M5T,40061,                                                  ,1, ,0,0,0,0,0,0
+127755,1978,I     ,A     , ,BAS   ,Hospitality Tourism Mgt,      ,      ,M6H,57309,Sales                                             ,2,11/21/2012,0,0,0,0,0,250
+127664,1987,I     ,A     , ,BS    ,Sociology,      ,      ,M5R,96285,Senior Associate                                  ,11,11/18/2015,0,11,35,45,45,535
+127809,1989,I     ,A     , ,BS    ,History,      ,      ,M4C,60310,Teacher                                           ,0, ,0,0,0,0,0,0
+127656,1977,I     ,A     , ,BS    ,Language Arts,      ,      ,M6N,57378,Kindergarten Tchr                                 ,1, ,0,0,0,0,0,0
+127738,1979,I     ,A     , ,BS    ,Biology,I     ,A     ,M4T,150692,Gen  Mgr                                          ,1,1/17/2001,0,0,0,0,0,25
+127938,2006,I     ,A     ,Parent,BS    ,Criminal Justice,      ,      ,M4P,76675,                                                  ,2, ,0,0,0,0,0,0
+127928,1989,I     ,A     , ,MED   ,General Education,I     ,I     ,M5J,92668,Kindergarden Teacher                              ,1,3/25/2014,0,0,0,0,100,100
+128023,1980,I     ,A     , ,BBA   ,Management,      ,      ,M5S,80977,Manager Remote Recording Operations               ,0, ,0,0,0,0,0,0
+128168,1982,I     ,A     , ,BS    ,Criminal Justice,      ,      ,M5V,79018,Detective                                         ,2, ,0,0,0,0,0,0
+128217,1981,I     ,A     ,Parent,BBA   ,Marketing,      ,      ,M2N,68333,Owner                                             ,1, ,0,0,0,0,0,0
+128260,1998,I     ,A     , ,BA    ,Philosophy,      ,      ,M5M,135475,Instructor of English Language                    ,1, ,0,0,0,0,0,0
+128357,2004,I     ,A     , ,BS    ,Health Science,      ,      ,M3K,60887,                                                  ,1, ,0,0,0,0,0,0
+128508,2001,I     ,A     , ,BS    ,Hospitality Tourism Mgt,      ,      ,M1B,65192,Legal Prep                                        ,1, ,0,0,0,0,0,0
+128738,2003,I     ,A     , ,BS    ,Mathematics,      ,      ,M5R,96285,teacher: 6 and 8th grade math                     ,1, ,0,0,0,0,0,0
+128867,1993,I     ,A     , ,BBA   ,Finance,I     ,A     ,M5V,79018,                                                  ,0, ,0,0,0,0,0,0
+128964,1999,I     ,A     , ,BS    ,Mathematics,      ,      ,M3C,53636,Data Administrator                                ,0, ,0,0,0,0,0,0
+129020,1983,I     ,A     , ,BS    ,Criminal Justice,      ,      ,M4B,63005,Assistant Teacher                                 ,1, ,0,0,0,0,0,0
+129375,1981,I     ,A     , ,BS    ,Chemistry,      ,      ,M1S,58417,                                                  ,7,6/29/2015,0,0,0,50,120,532
+129488,1975,I     ,A     , ,BS    ,Psychology,      ,      ,M6L,51191,Port Director                                     ,0, ,0,0,0,0,0,0
+129480,1987,I     ,A     ,Parent,BS    ,Environmental Studies,      ,      ,M1H,58876,                                                  ,1, ,0,0,0,0,0,0
+129314,1979,I     ,A     ,Parent,BS    ,Psychology,      ,      ,M6H,57309,Juvenile Justice Spec                             ,2, ,0,0,0,0,0,0
+129546,1982,I     ,A     ,Parent,BS    ,Psychology,I     ,A     ,M2N,68333,Musician                                          ,2, ,0,0,0,0,0,0
+129647,2000,I     ,A     ,Parent,BS    ,Behavioral Science,      ,      ,M5S,80977,Home Health Care Aide                             ,4, ,0,0,0,0,0,0
+130073,2000,I     ,A     , ,BBA   ,Finance,      ,      ,M4E,99523,Attorney                                          ,1, ,0,0,0,0,0,0
+129956,2001,S     ,A     , ,BA    ,Advertising & Public Relations,      ,      ,M5S,80977,Affiliate (Clinical) Faculty                      ,2, ,0,0,0,0,0,0
+130084,2000,I     ,A     , ,BS    ,Criminal Justice,      ,      ,M6L,51191,Police Officer                                    ,2, ,0,0,0,0,0,0
+130141,1988,I     ,A     , ,BS    ,GRO Social Studies,      ,      ,M1P,54560,8th Grade Teacher                                 ,2, ,0,0,0,0,0,0
+130269,1999,I     ,A     ,Parent,BBA   ,Accounting,      ,      ,M2N,68333,Master Scheduler                                  ,1, ,0,0,0,0,0,0
+130206,1992,I     ,A     , ,BS    ,Psychology,I     ,A     ,M6J,63464,Research Associate                                ,2, ,0,0,0,0,0,0
+130434,1995,I     ,A     , ,BA    ,Communications,      ,      ,M2N,68333,                                                  ,5,3/4/2005,0,0,0,0,0,20
+130600,2004,I     ,A     , ,BS    ,Group Science,I     ,A     ,M2N,68333,VP of Quality/Systems Manager                     ,1, ,0,0,0,0,0,0
+130510,2003,I     ,A     , ,BS    ,Mathematics,I     ,A     ,M5J,92668,                                                  ,0, ,0,0,0,0,0,0
+130522,2005,I     ,A     , ,BSW   ,Social Work,      ,      ,M5M,135475,                                                  ,3,5/20/2015,0,0,0,50,0,125
+130563,2007,I     ,A     , ,BSN   ,Nursing,      ,      ,M6A,52149,Nurse                                             ,1, ,0,0,0,0,0,0
+130730,1985,I     ,A     , ,BBA   ,Management,      ,      ,M6P,68781,Manager                                           ,3, ,0,0,0,0,0,0
+130748,1980,I     ,A     , ,BS    ,Special Education,I     ,I     ,M2N,68333,                                                  ,0, ,0,0,0,0,0,0
+130909,1973,I     ,A     , ,BS    ,Social Relations,      ,      ,M4M,59723,                                                  ,0,4/14/2003,0,0,0,0,0,35
+130901,1994,I     ,A     ,Parent,BS    ,Physical Education,      ,      ,M3K,60887,Elementary Teacher                                ,1, ,0,0,0,0,0,0
+131112,1983,I     ,A     , ,BSN   ,Nursing - RN,      ,      ,M5J,92668,Practice Manager                                  ,1, ,0,0,0,0,0,0
+131292,1988,I     ,A     , ,BBA   ,Marketing,      ,      ,M5G,51478,General Agent                                     ,2, ,0,0,0,0,0,0
+131560,2000,I     ,A     , ,BS    ,Biology,I     ,A     ,M6L,51191,Farmer                                            ,0, ,0,0,0,0,0,0
+131474,1984,I     ,A     , ,BSE   ,Engineering,      ,      ,M5J,92668,Engineering Manager                               ,5,11/11/2013,0,0,0,0,25,75
+131591,1985,I     ,A     , ,BS    ,Health Science,      ,      ,M6P,68781,Nurse Coord.                                      ,1, ,0,0,0,0,0,0
+131886,1999,I     ,A     , ,BS    ,Physical Education,      ,      ,M4C,60310,"Special Edu. 2nd, 3rd, 4th                        ",1, ,0,0,0,0,0,0
+131870,2000,I     ,A     , ,MED   ,General Education,      ,      ,M6P,68781,                                                  ,0, ,0,0,0,0,0,0
+131936,2001,I     ,A     , ,BBA   ,Finance,      ,      ,M6P,68781,Branch Administration Coordinator                 ,2, ,0,0,0,0,0,0
+131800,1988,I     ,A     , ,BS    ,Biology,      ,      ,M6N,57378,                                                  ,2, ,0,0,0,0,0,0
+131855,1993,I     ,A     , ,BFA   ,Art,      ,      ,M6J,63464,Art Director                                      ,1, ,0,0,0,0,0,0
+132136,2001,I     ,A     , ,BS    ,History,      ,      ,M5S,80977,Pastor                                            ,2,11/2/2008,0,0,0,0,0,175
+132334,1998,I     ,A     , ,MED   ,General Education,      ,      ,M1N,75900,Educator                                          ,0, ,0,0,0,0,0,0
+132354,2005,I     ,A     , ,BS    ,Psychology,I     ,A     ,M1S,58417,Special Agent                                     ,5, ,0,0,0,0,0,0
+132253,2003,I     ,A     , ,BS    ,Group Science,      ,      ,M1E,64284,Kindergarten Teacher                              ,3, ,0,0,0,0,0,0
+132436,1995,I     ,A     , ,BBA   ,Business General,      ,      ,M6P,68781,Branch Manager                                    ,0, ,0,0,0,0,0,0
+132546,1998,I     ,A     , ,BS    ,Psychology,I     ,A     ,M3B,111062,Police Ofcr  & Fireman                            ,1, ,0,0,0,0,0,0
+132591,2000,I     ,A     , ,BA    ,Biology,      ,      ,M3N,45065,Software Engineer                                 ,2, ,0,0,0,0,0,0
+132404,1987,I     ,A     , ,BS    ,Biology,      ,      ,M3H,68796,Stay At Home Mom                                  ,9, ,0,0,0,0,0,0
+132623,1983,I     ,A     ,Parent,BS    ,Psychology,      ,      ,M1L,48164,                                                  ,0, ,0,0,0,0,0,0
+132684,1976,I     ,A     , ,MST   ,Taxation,      ,      ,M5M,135475,Director-Taxation Dept.                           ,1, ,0,0,0,0,0,0
+132913,1981,I     ,A     , ,BBA   ,Business General,I     ,A     ,M6P,68781,Secretary/Treasurer                               ,1, ,0,0,0,0,0,0
+132817,1977,I     ,A     ,Parent,BBA   ,Management,      ,      ,M6P,68781,Morgage Consultant                                ,1, ,0,0,0,0,0,0
+133013,2003,I     ,A     ,Parent,MHS   ,Medical Technology,I     ,A     ,M6L,51191,Medical Technician                                ,1, ,0,0,0,0,0,0
+133141,1993,I     ,A     , ,BS    ,Psychology,      ,      ,M3N,45065,Special Ed Teach                                  ,3, ,0,0,0,0,0,0
+133288,1992,I     ,A     , ,MED   ,General Education,      ,      ,M6J,63464,                                                  ,0, ,0,0,0,0,0,0
+133361,1996,I     ,A     , ,BFA   ,Art,      ,      ,M5B,63763,                                                  ,0, ,0,0,0,0,0,0
+133610,2003,I     ,A     , ,BS    ,Physical Education,      ,      ,M3N,45065,                                                  ,1, ,0,0,0,0,0,0
+133901,2001,I     ,A     , ,BA    ,Psychology,I     ,A     ,M6P,68781,Licensed Psychologist                             ,1, ,0,0,0,0,0,0
+134082,1999,I     ,A     , ,BBA   ,Marketing,I     ,A     ,M3C,53636,President                                         ,0,9/28/2009,0,0,0,0,0,95
+134063,2002,I     ,A     , ,BS    ,Criminal Justice,      ,      ,M3J,49625,Police Officer                                    ,2, ,0,0,0,0,0,0
+134188,1978,I     ,A     , ,BA    ,Communications,      ,      ,M5J,92668,                                                  ,1, ,0,0,0,0,0,0
+134489,1972,I     ,A     , ,BBA   ,Management,      ,      ,M5S,80977,Realtor                                           ,12, ,0,0,0,0,0,0
+134634,1982,I     ,A     , ,BPH   ,Environmental Studies,      ,      ,M1L,48164,Profn  Musician/Teacher                           ,0, ,0,0,0,0,0,0
+134665,1989,I     ,A     , ,BS    ,Criminal Justice,      ,      ,M1P,54560,Corrections Off.                                  ,4, ,0,0,0,0,0,0
+134814,1988,I     ,A     , ,BS    ,Chemistry,I     ,A     ,M6H,57309,                                                  ,1, ,0,0,0,0,0,0
+135108,1983,I     ,A     ,Parent,BS    ,Criminal Justice,      ,      ,M6N,57378,Chief Psychologist                                ,1, ,0,0,0,0,0,0
+135141,1983,I     ,A     , ,BS    ,Mathematics,      ,      ,M3B,111062,Software Sales Executive                          ,7,11/12/2014,0,15,0,50,50,1500
+135303,2001,I     ,A     , ,BS    ,Computer Science,      ,      ,M1L,48164,Programmer/Analyst                                ,1, ,0,0,0,0,0,0
+135402,1995,I     ,A     ,Parent,MED   ,General Education,      ,      ,M1H,58876,Teacher                                           ,0, ,0,0,0,0,0,0
+135656,2003,I     ,A     , ,BS    ,Mathematics,I     ,A     ,M5V,79018,Senior Systems Engineer                           ,1, ,0,0,0,0,0,0
+135547,2003,I     ,A     , ,BS    ,Health Science,I     ,A     ,M5J,92668,                                                  ,8, ,0,0,0,0,0,40
+135770,2003,I     ,A     , ,BS    ,Earth Science,      ,      ,M5S,80977,                                                  ,4, ,0,0,0,0,0,0
+135703,2001,I     ,A     , ,MED   ,Reading,      ,      ,M6N,57378,1st Grade Teacher                                 ,0, ,0,0,0,0,0,0
+135658,2002,I     ,A     , ,MBA   ,Business General,      ,      ,M6P,68781,Chief Executive Officer                           ,0, ,0,0,0,0,0,0
+135977,2004,I     ,A     , ,BBA   ,Marketing,I     ,A     ,M5V,79018,National Account Executive                        ,1, ,0,0,0,0,0,0
+136079,2003,I     ,A     , ,BA    ,Spanish,      ,      ,M6L,51191,Investments                                       ,1, ,0,0,0,0,0,0
+136280,1996,I     ,A     , ,BBA   ,Marketing,I     ,A     ,M5S,80977,District Sales Manager                            ,2, ,0,0,0,0,0,0
+136254,1976,I     ,A     , ,BS    ,Biomedical Sciences,      ,      ,M4E,99523,Self-Employed                                     ,2, ,0,0,0,0,0,0
+136293,1982,I     ,A     , ,BS    ,Health Science,      ,      ,M4V,120678,Program Manager                                   ,0,1/26/2001,0,0,0,0,0,30
+136505,1990,I     ,A     ,Parent,BS    ,Special Education,      ,      ,M5J,92668,Special Educ  Tchr                                ,1, ,0,0,0,0,0,0
+136831,1988,I     ,A     , ,MED   ,Special Education,      ,      ,M5S,80977,                                                  ,0, ,0,0,0,0,0,0
+137549,2002,I     ,A     , ,BA    ,Criminal Justice,I     ,A     ,M1H,58876,Clerical                                          ,1, ,0,0,0,0,0,0
+137785,1987,I     ,A     , ,MED   ,Special Education,      ,      ,M6L,51191,                                                  ,0, ,0,0,0,0,0,0
+138044,1987,I     ,A     , ,MBA   ,Management,      ,      ,M3J,49625,CPA                                               ,0, ,0,0,0,0,0,0
+137881,1974,I     ,A     , ,BS    ,GRP SS Psych,      ,      ,M2N,68333,Social Worker                                     ,0, ,0,0,0,0,0,0
+138099,1990,I     ,A     , ,BS    ,Natural Resource Management,      ,      ,M6A,52149,Retired                         ,2, ,0,0,0,0,0,0
+138076,1976,I     ,A     , ,MSW   ,Social Work,I     ,A     ,M5S,80977,Sch  Social Worker                                ,0, ,0,0,0,0,0,0
+138017,2005,I     ,A     , ,BS    ,Special Education,      ,      ,M3B,111062,CEO                                               ,2,4/12/2000,0,0,0,0,0,425
+138140,1980,I     ,A     , ,BS    ,Computer Science,      ,      ,M6R,78744,Software Engineer                                 ,2, ,0,0,0,0,0,0
+138500,2002,I     ,A     , ,BS    ,Public Administration,      ,      ,M1H,58876,Assistant Provost                                 ,1, ,0,0,0,0,0,0
+139022,2000,I     ,A     , ,BA    ,English Language and Literature,      ,      ,M5J,92668,                                                  ,2,11/5/2007,0,0,0,0,0,180
+139001,2005,I     ,A     , ,BS    ,GRO Social Studies,      ,      ,M6L,51191,Sales Rep                                         ,1, ,0,0,0,0,0,0
+139609,1978,I     ,A     , ,MED   ,Special Education,      ,      ,M5E,94414,                                                  ,0, ,0,0,0,0,0,0
+139901,2004,I     ,A     , ,BBA   ,Finance,      ,      ,M1N,75900,Sr. Staff Specialist                              ,2, ,0,0,0,0,0,0
+140041,1976,I     ,A     , ,MS    ,Communications,      ,      ,M5V,79018,Manager of Physician Relations and Network Develop,0, ,0,0,0,0,0,0
+140217,1997,I     ,A     , ,BA    ,Spanish,      ,      ,M5V,79018,                                                  ,7,6/11/2015,0,9,0,300,300,2850
+140378,2005,I     ,A     , ,BS    ,Computer Science,I     ,A     ,M5S,80977,Engineering Manager                               ,5,10/18/2012,0,0,0,0,0,100
+140395,2002,I     ,A     , ,BBA   ,International Business,      ,      ,M4S,95168,International Accountant                          ,5,1/18/2009,0,0,0,0,0,25
+140285,2003,I     ,A     , ,BBA   ,Accounting,      ,      ,M2N,68333,                                                  ,0, ,0,0,0,0,0,0
+157882,2005,I     ,I     , ,      , ,I     ,I     ,M5S,80977,President                                         ,0,7/1/2004,0,0,0,0,0,50
+163185,2001,I     ,I     , ,      , ,      ,      ,M5S,80977,                                                  ,0, ,0,0,0,0,0,0
+165776,2002,I     ,I     , ,      , ,I     ,I     ,M5R,96285,Vice President                                    ,0, ,0,0,0,0,0,0
+177259,2001,I     ,I     , ,      , ,      ,      ,M5B,63763,President                                         ,0, ,0,0,0,0,0,0
+178997,2003,I     ,P     ,Parent,      , ,      ,      ,M5M,135475,Food Broker                                       ,0, ,0,0,0,0,0,0
+180187,2004,I     ,I     , ,      , ,      ,      ,M6P,68781,President                                         ,0, ,0,0,0,0,0,0
+180410,2001,I     ,I     , ,      , ,I     ,I     ,M6P,68781,                                                  ,0, ,0,0,0,0,0,0
+182961,2003,I     ,I     , ,      , ,      ,      ,M5S,80977,Attorney                                          ,0, ,0,0,0,0,0,0
+526559,2002,I     ,A     , ,BS    ,Psychology,      ,      ,M5S,80977,Speical Education Pre School                      ,2,5/17/2004,0,0,0,0,0,30
+526737,2002,I     ,I     , ,      , ,      ,      ,M5J,92668,Non-Executive Chairman of the Board               ,0, ,0,0,0,0,0,0
+526916,2001,I     ,A     , ,BBA   ,Management,      ,      ,M1E,64284,"Senior Specialist, Employee Relations             ",1, ,0,0,0,0,0,0
+526890,2002,I     ,A     , ,BBA   ,Business General,      ,      ,M5S,80977,Risk Management                                   ,0, ,0,0,0,0,0,0
+527070,2001,I     ,A     , ,BBA   ,Finance,      ,      ,M5V,79018,Claims Representative                             ,0, ,0,0,0,0,0,0
+527097,2005,I     ,A     , ,BBA   ,Business General,      ,      ,M1H,58876,Business Analyst                                  ,0, ,0,0,0,0,0,0
+526930,2002,I     ,A     , ,BS    ,Psychology,      ,      ,M5A,43816,Nurse                                             ,0, ,0,0,0,0,0,0
+526952,2004,I     ,A     , ,BA    ,Journalism,      ,      ,M6J,63464,Marketing Manager                                 ,1, ,0,0,0,0,0,0
+527009,2003,I     ,A     , ,BS    ,Art,      ,      ,M1E,64284,3rd Grade Teacher                                 ,1, ,0,0,0,0,0,0
+527020,2002,I     ,A     , ,BSN   ,Nursing,      ,      ,M1S,58417,RN                                                ,0, ,0,0,0,0,0,0
+527143,2004,I     ,A     , ,BBA   ,Marketing,      ,      ,M6R,78744,                                                  ,0, ,0,0,0,0,0,0
+527034,2005,S     ,A     , ,BS    ,Mathematics,      ,      ,M1P,54560,Affiliate Faculty                                 ,1,6/10/2009,0,0,0,0,0,325
+527250,2003,I     ,A     , ,BBA   ,Marketing,I     ,A     ,M1P,54560,                                                  ,0, ,0,0,0,0,0,0
+527206,2001,I     ,A     , ,BBA   ,Finance,I     ,A     ,M5J,92668,Setup Mechanic II                                 ,1, ,0,0,0,0,0,0
+527130,2003,I     ,A     , ,BS    ,History,      ,      ,M6J,63464,                                                  ,1, ,0,0,0,0,0,0
+527171,2004,I     ,A     , ,BS    ,Mathematics,I     ,A     ,M5V,79018,Teacher                                           ,0, ,0,0,0,0,0,0
+527142,2002,I     ,A     , ,BS    ,Computer Science,      ,      ,M5R,96285,Systems Analysit                                  ,1, ,0,0,0,0,0,0
+527389,2004,I     ,A     , ,BSN   ,Nursing,      ,      ,M3K,60887,Registered Nurse                                  ,0, ,0,0,0,0,0,0
+527337,2002,I     ,A     , ,BS    ,Criminal Justice,      ,      ,M5B,63763,Security                                          ,0, ,0,0,0,0,0,0
+527254,2001,I     ,A     , ,BA    ,English Language and Literature,I     ,P     ,M6N,57378,                                                  ,3, ,0,0,0,0,0,0
+527290,2001,I     ,A     , ,BS    ,Physical Education,      ,      ,M5E,94414,Teacher                                           ,0, ,0,0,0,0,0,0
+527463,2003,I     ,A     , ,BBA   ,Management,      ,      ,M5S,80977,                                                  ,0, ,0,0,0,0,0,0
+527449,2005,I     ,A     , ,BA    ,Communications,      ,      ,M2N,68333,Cook                                              ,0, ,0,0,0,0,0,0
+527494,2004,I     ,A     , ,BS    ,Criminal Justice,I     ,I     ,M5A,43816,                                                  ,1, ,0,0,0,0,0,0
+527326,2001,I     ,A     , ,BS    ,Group Science,      ,      ,M2N,68333,                                                  ,0, ,0,0,0,0,0,0
+527479,2003,I     ,A     , ,BSN   ,Nursing,      ,      ,M1P,54560,Community Nurse Supervisor                        ,0, ,0,0,0,0,0,0
+527446,2001,I     ,A     , ,BBA   ,Marketing,      ,      ,M2N,68333,Contractor                                        ,1, ,0,0,0,0,0,0
+527487,2004,I     ,A     , ,BBA   ,Marketing,      ,      ,M6P,68781,Sales and Delivery                                ,0, ,0,0,0,0,0,0
+527513,2002,I     ,A     , ,BS    ,Health Science,      ,      ,M6E,60096,                                                  ,1, ,0,0,0,0,0,0
+527638,2006,I     ,A     , ,BS    ,Physical Education,      ,      ,M5S,80977,Sales Manager                                     ,1,1/31/2008,0,0,0,0,0,20
+527539,2001,I     ,A     , ,BBA   ,Management,      ,      ,M5V,79018,                                                  ,0, ,0,0,0,0,0,0
+527720,2005,I     ,A     , ,BS    ,Occup Safety/Health Management,I     ,A     ,M5J,92668,Senior Safety and Health Engineer                 ,1, ,0,0,0,0,0,0
+527811,2002,I     ,A     , ,MED   ,General Education,      ,      ,M5V,79018,Principal                                         ,0, ,0,0,0,0,0,0
+527707,2006,I     ,A     , ,BA    ,Spanish,      ,      ,M5T,40061,3rd Grade Teacher                                 ,1, ,0,0,0,0,0,0
+527672,2003,I     ,A     , ,BS    ,Psychology,I     ,A     ,M6N,57378,Psychologist                                      ,1, ,0,0,0,0,0,0
+527772,2003,I     ,A     , ,BS    ,Information Systems,I     ,A     ,M2N,68333,Information Technology Supervisor                 ,2, ,0,0,0,0,0,0
+527732,2004,I     ,A     , ,BFA   ,Art,      ,      ,M4B,63005,                                                  ,9,1/11/2011,0,0,0,0,0,100
+528008,2004,I     ,A     , ,BA    ,English Language and Literature,I     ,I     ,M6H,57309,Teacher - Pre-K                                   ,0, ,0,0,0,0,0,0
+528121,2004,I     ,A     , ,BS    ,Group Science,      ,      ,M3J,49625,2nd Grade Teacher                                 ,0, ,0,0,0,0,0,0
+528023,2005,I     ,A     , ,BA    ,English Language and Literature,      ,      ,M6A,52149,Reading                                           ,0, ,0,0,0,0,0,0
+528077,2006,I     ,A     , ,MED   ,General Education,I     ,A     ,M6B,63133,Teacher                                           ,0, ,0,0,0,0,0,0
+528165,2002,I     ,A     , ,BA    ,Spanish,I     ,A     ,M6M,49028,                                                  ,1, ,0,0,0,0,0,0
+528005,2006,I     ,A     , ,BS    ,Mathematics,      ,      ,M1B,65192,Kindergarten Teacher                              ,0, ,0,0,0,0,0,0
+528046,2005,I     ,A     , ,MSW   ,Social Work,      ,      ,M1P,54560,Consuling Program                                 ,0, ,0,0,0,0,0,0
+528008,2005,I     ,A     , ,BS    ,Physical Education,      ,      ,M6P,68781,Phys Ed Teacher                                   ,0, ,0,0,0,0,0,0
+528076,2003,I     ,A     , ,BA    ,Anthropology,I     ,I     ,M6L,51191,Administrative Assistant                          ,2,1/14/2009,0,0,0,0,0,25
+528169,2002,I     ,A     , ,BS    ,Health Science,      ,      ,M5S,80977,                                                  ,1, ,0,0,0,0,0,0
+528346,2003,I     ,A     , ,BS    ,Group Science,      ,      ,M2N,68333,Sub. Teacher                                      ,1, ,0,0,0,0,0,0
+528329,2004,I     ,A     , ,BS    ,Group Science,      ,      ,M2N,68333,                                                  ,0, ,0,0,0,0,0,0
+528362,2006,I     ,A     , ,BS    ,GRO Social Studies,I     ,A     ,M1P,54560,History Teacher                                   ,0, ,0,0,0,0,0,0
+528263,2004,I     ,A     , ,BA    ,French,      ,      ,M5E,94414,Stay At Home Mom                                  ,0, ,0,0,0,0,0,0
+528305,2004,I     ,A     , ,BA    ,English Language and Literature,      ,      ,M6N,57378,2nd Grade Teacher                                 ,0, ,0,0,0,0,0,0
+528294,2002,I     ,A     , ,BBA   ,Finance,      ,      ,M5J,92668,Commercial Banking Officer                        ,0, ,0,0,0,0,0,0
+528314,2005,I     ,A     , ,BS    ,Information Systems,      ,      ,M6L,51191,                                                  ,2, ,0,0,0,0,0,0
+528488,2003,I     ,A     , ,BBA   ,Accounting,      ,      ,M2N,68333,Owner                                             ,1, ,0,0,0,0,0,0
+528364,2002,I     ,A     , ,BBA   ,Management,      ,      ,M5J,92668,Category Manager                                  ,1, ,0,0,0,0,0,0
+528402,2002,I     ,A     , ,BBA   ,Management,      ,      ,M1E,64284,                                                  ,0, ,0,0,0,0,0,0
+528444,2004,I     ,A     , ,BS    ,Physical Education,I     ,A     ,M5J,92668,Physical Education Teacher                        ,1, ,0,0,0,0,0,0
+528623,2006,I     ,A     , ,BBA   ,Accounting,      ,      ,M3H,68796,Operations Acct. Staff                            ,0, ,0,0,0,0,0,0
+528748,2003,I     ,A     , ,BS    ,Mathematics,      ,      ,M1H,58876,                                                  ,0, ,0,0,0,0,0,0
+528768,2003,I     ,A     , ,BBA   ,Business Economics,      ,      ,M4C,60310,Assistant Commercial Loan Manager                 ,1, ,0,0,0,0,0,0
+528815,2004,I     ,A     , ,MSW   ,Social Work,      ,      ,M5T,40061,                                                  ,0, ,0,0,0,0,0,0
+528824,2004,I     ,A     , ,BS    ,Advertising & Public Relations,I     ,A     ,M6N,57378,Manager                                           ,1, ,0,0,0,0,0,0
+528789,2005,I     ,A     , ,BBA   ,Finance,I     ,A     ,M3C,53636,Financial Analysis                                ,0, ,0,0,0,0,0,0
+528845,2005,I     ,A     , ,BFA   ,Art,I     ,A     ,M6P,68781,Graphic Designer                                  ,0, ,0,0,0,0,0,0
+528827,2003,I     ,A     , ,BBA   ,Accounting,      ,      ,M3H,68796,Senior Manager                                    ,0, ,0,0,0,0,0,0
+528897,2006,I     ,A     , ,MED   ,General Education,      ,      ,M6L,51191,Assistant Principal                               ,1, ,0,0,0,0,0,0
+528977,2002,I     ,A     , ,BBA   ,Business General,I     ,A     ,M5V,79018,Truck Driver                                      ,0, ,0,0,0,0,0,0
+529059,2004,I     ,A     , ,BS    ,Computer Science,      ,      ,M6P,68781,Assistant Manager                                 ,1, ,0,0,0,0,0,0
+529082,2005,I     ,A     , ,MSW   ,Social Work,      ,      ,M1L,48164,Program Manager                                   ,0, ,0,0,0,0,0,0
+529134,2005,I     ,A     , ,BSW   ,Social Work,      ,      ,M2N,68333,Assessment Specialist                             ,1, ,0,0,0,0,0,0
+529211,2002,I     ,A     , ,BS    ,Health Science,      ,      ,M5J,92668,Physician's Assistant                             ,0, ,0,0,0,0,0,0
+529103,2004,I     ,A     , ,BA    ,Advertising & Public Relations,      ,      ,M5H,117919,Marketing Manager                                 ,1, ,0,0,0,0,0,0
+529110,2002,I     ,A     , ,BBA   ,Management,      ,      ,M1N,75900,Income Tax Clerk                                  ,0, ,0,0,0,0,0,0
+529164,2002,I     ,A     , ,BA    ,GRO Social Studies,      ,      ,M1P,54560,                                                  ,0, ,0,0,0,0,0,0
+529342,2004,I     ,A     , ,MSW   ,Social Work,      ,      ,M3N,45065,                                                  ,0, ,0,0,0,0,0,0
+529362,2002,I     ,A     , ,BS    ,Psychology,      ,      ,M6L,51191,                                                  ,0, ,0,0,0,0,0,0
+529300,2004,I     ,A     , ,BS    ,Sociology,      ,      ,M6P,68781,Program Coordinator                               ,1, ,0,0,0,0,0,0
+530305,2006,I     ,I     , ,      , ,I     ,I     ,M1S,58417,"Group VP, Public Affairs & Communications         ",0, ,0,0,0,0,0,0
+530581,2005,I     ,A     , ,MSN   ,Nursing,      ,      ,M5E,94414,                                                  ,0, ,0,0,0,0,0,0
+530565,2005,I     ,A     , ,MED   ,General Education,      ,      ,M6N,57378,Water Operator                                    ,0, ,0,0,0,0,0,0
+530622,2006,I     ,A     , ,BS    ,Psychology,      ,      ,M5V,79018,1st grade teacher                                 ,0, ,0,0,0,0,0,0
+530591,2003,I     ,A     , ,BS    ,Psychology,      ,      ,M5J,92668,Teacher                                           ,0, ,0,0,0,0,0,0
+531451,2002,I     ,A     , ,BS    ,Advertising & Public Relations,      ,      ,M1N,75900,                                                  ,0, ,0,0,0,0,0,0
+531634,2002,I     ,A     , ,MED   ,General Education,      ,      ,M5G,51478,High School Math Teacher                          ,0, ,0,0,0,0,0,0
+531663,2004,I     ,A     , ,MED   ,General Education,      ,      ,M3H,68796,                                                  ,0, ,0,0,0,0,0,0
+531586,2004,I     ,A     , ,BS    ,Psychology,      ,      ,M6B,63133,                                                  ,0, ,0,0,0,0,0,0
+531633,2005,I     ,A     , ,BA    ,GRO Social Studies,I     ,A     ,M5B,63763,Volunteer Center Coordinator                      ,1, ,0,0,0,0,0,0
+531493,2006,I     ,A     , ,BBA   ,Business General,      ,      ,M6M,49028,                                                  ,0, ,0,0,0,0,0,0
+531745,2006,I     ,A     , ,BSN   ,Nursing,      ,      ,M5V,79018,Nurse                                             ,1, ,0,0,0,0,0,0
+531611,2005,I     ,A     , ,MED   ,General Education,      ,      ,M5T,40061,                                                  ,0, ,0,0,0,0,0,0
+531749,2002,I     ,A     , ,MSN   ,Nursing,      ,      ,M3K,60887,Nurse Practicioner                                ,0, ,0,0,0,0,0,0
+531848,2004,I     ,A     , ,MED   ,General Education,      ,      ,M3H,68796,7th Grade Teacher                                 ,0, ,0,0,0,0,0,0
+531662,2003,I     ,A     , ,BSN   ,Nursing,      ,      ,M6P,68781,                                                  ,0, ,0,0,0,0,0,0
+531693,2005,I     ,A     , ,MED   ,School Counseling,      ,      ,M3H,68796,                                                  ,0, ,0,0,0,0,0,0
+531905,2008,I     ,A     , ,BSN   ,Nursing,      ,      ,M4E,99523,                                                  ,1, ,0,0,0,0,0,0
+531909,2004,I     ,A     , ,BS    ,Information Systems,      ,      ,M5J,92668,                                                  ,1, ,0,0,0,0,0,0
+531894,2010,I     ,A     , ,BS    ,Hospitality Tourism Mgt,      ,      ,M6L,51191,Inventory Manager                                 ,1, ,0,0,0,0,0,0
+531854,2005,I     ,A     , ,BSE   ,Engineering,      ,      ,M3H,68796,                                                  ,0, ,0,0,0,0,0,0
+531829,2005,I     ,A     , ,BBA   ,International Business,      ,      ,M1N,75900,Sales Coordinator                                 ,2, ,0,0,0,0,0,0
+531957,2007,I     ,A     , ,BS    ,Advertising & Public Relations,      ,      ,M4W,129818,District Manager                                  ,0, ,0,0,0,0,0,0
+531955,2011,I     ,A     , ,BBA   ,Finance,      ,      ,M6P,68781,Foreman                                           ,1, ,0,0,0,0,0,0
+532132,2003,I     ,A     , ,BS    ,Sociology,      ,      ,M5R,96285,                                                  ,0, ,0,0,0,0,0,0
+532990,2012,I     ,A     , ,BA    ,Spanish,      ,      ,M1L,48164,Certified Therapeutic Recreation Specialist       ,1, ,0,0,0,0,0,0
+532838,2005,I     ,A     , ,BBA   ,Management,      ,      ,M6A,52149,Sales Representative                              ,1, ,0,0,0,0,0,0
+535112,2003,I     ,A     , ,BS    ,Information Systems,      ,      ,M3K,60887,Embedded Software Engineer                        ,1, ,0,0,0,0,0,20
+535289,2003,I     ,A     , ,BS    ,Criminal Justice,      ,      ,M6P,68781,Police Officer                                    ,2, ,0,0,0,0,0,0
+535341,2009,I     ,A     , ,BA    ,Philosophy,      ,      ,M6N,57378,Computer Operator                                 ,2, ,0,0,0,0,0,0
+535390,2007,I     ,A     , ,BA    ,Photography,      ,      ,M6A,52149,Community Outreach Coordinator                    ,2,8/30/2012,0,0,0,0,0,20
+535492,2006,I     ,A     , ,BS    ,Biomedical Sciences,      ,      ,M4P,76675,                                                  ,9,3/25/2013,0,2,0,0,50,120
+535707,2005,I     ,A     ,Parent,BA    ,English Language and Literature,I     ,I     ,M6P,68781,                                                  ,1, ,0,0,0,0,0,0
+535927,2010,I     ,A     , ,BSE   ,Engineering,I     ,A     ,M5J,92668,Product Engineer                                  ,1, ,0,0,0,0,0,0
+535993,2006,I     ,A     , ,BS    ,Photography,      ,      ,M3J,49625,Server                                            ,1, ,0,0,0,0,0,0
+536078,2006,I     ,A     , ,BS    ,Computer Science,      ,      ,M4N,156174,Engineer                          ,2, ,0,0,0,0,0,0
+536263,2007,I     ,A     , ,BSE   ,Engineering,      ,      ,M6B,63133,Software Engineer                                 ,2, ,0,0,0,0,0,0
+536530,2008,I     ,A     , ,BBA   ,Marketing,I     ,A     ,M3H,68796,                                                  ,3, ,0,0,0,0,0,0
+536458,2008,I     ,A     , ,BA    ,Mathematics,I     ,A     ,M5J,92668,Teacher                                           ,1,11/9/2006,0,0,0,0,0,50
+536600,2010,I     ,A     , ,BA    ,Advertising & Public Relations,I     ,A     ,M6L,51191,                                                  ,2, ,0,0,0,0,0,0
+537004,2009,I     ,A     , ,BS    ,Hospitality Tourism Mgt,      ,      ,M2N,68333,Associate Sales Manager                           ,2, ,0,0,0,0,0,0
+537242,2009,I     ,A     ,Parent,BS    ,Health Science,      ,      ,M5B,63763,                                                  ,2, ,0,0,0,0,0,0
+537522,2008,I     ,A     , ,BBA   ,Finance,      ,      ,M5V,79018,Account Receivable Coordinator                    ,1, ,0,0,0,0,0,0
+537669,2012,I     ,A     , ,BS    ,Physical Education,      ,      ,M5S,80977,Phys Ed/Athletic Director                         ,3, ,0,0,0,0,0,0
+537725,2004,I     ,A     , ,BSE   ,Engineering,      ,      ,M5V,79018,Product Development Engineer                      ,5, ,0,0,0,0,0,0
+537789,2004,I     ,A     , ,BBA   ,Business Economics,      ,      ,M5T,40061,Managing Director                                 ,8, ,0,0,0,0,0,0
+537824,2009,I     ,A     , ,BS    ,Mathematics,I     ,A     ,M5V,79018,                                                  ,1, ,0,0,0,0,0,0
+537875,2006,I     ,A     , ,BS    ,Integrated Science,      ,      ,M5V,79018,Teachers Aid Special Education                    ,2, ,0,0,0,0,0,0
+537965,2007,I     ,A     , ,BBA   ,Management,      ,      ,M5J,92668,Manufacturing Managing                            ,2, ,0,0,0,0,0,0
+537966,2005,I     ,A     , ,BBA   ,Accounting,      ,      ,M6P,68781,Manager of Tax & Accounting                       ,2, ,0,0,0,0,0,0
+537959,2008,I     ,A     , ,BA    ,International Relations,I     ,A     ,M2P,132447,Member Services Coordinator                       ,4, ,0,0,0,0,0,0
+537976,2007,I     ,A     , ,BS    ,Advertising & Public Relations,      ,      ,M4S,95168,Associate & Communications Director               ,3,10/12/2012,0,0,0,0,0,10
+538030,2003,I     ,A     , ,BS    ,Public Administration,      ,      ,M6K,43527,                                                  ,3, ,0,0,0,0,0,0
+538087,2003,I     ,A     , ,BBA   ,Marketing,      ,      ,M5S,80977,Client Services Representatives                   ,4, ,0,0,0,0,0,0
+538070,2004,I     ,A     , ,BS    ,Chemistry,      ,      ,M3B,111062,                                                  ,4, ,0,0,0,0,0,20
+538144,2002,I     ,A     , ,BS    ,Cell and Molecular Biology,      ,      ,M4L,74448,Medical Resident                                  ,1, ,0,0,0,0,0,0
+538473,2006,I     ,A     , ,BSN   ,Nursing,      ,      ,M5J,92668,Registered Nurse                                  ,2, ,0,0,0,0,0,0
+538543,2006,I     ,A     , ,BS    ,Health Science,      ,      ,M5R,96285,                                                  ,2, ,0,0,0,0,0,0
+538547,2002,I     ,A     , ,BBA   ,Marketing,      ,      ,M5B,63763,Materials Specialist                              ,2, ,0,0,0,0,0,0
+538403,2006,I     ,A     , ,BBA   ,Finance,      ,      ,M5J,92668,                                                  ,1, ,0,0,0,0,0,0
+538614,2002,I     ,A     , ,BS    ,Behavioral Science,      ,      ,M5R,96285,Research Assistant                                ,2, ,0,0,0,0,0,0
+538679,2004,I     ,A     , ,BS    ,Therapeutic Recreation,      ,      ,M1P,54560,                                                  ,2, ,0,0,0,0,0,0
+539335,2006,I     ,A     , ,BSN   ,Nursing,I     ,I     ,M6N,57378,                                                  ,1, ,0,0,0,0,0,0
+539650,2003,I     ,A     , ,BBA   ,Marketing,I     ,A     ,M5V,79018,                                                  ,0, ,0,0,0,0,0,0
+539732,2003,I     ,A     , ,BA    ,English Language and Literature,      ,      ,M4V,120678,Substitute Teacher                                ,2, ,0,0,0,0,0,0
+539636,2002,I     ,A     , ,MBA   ,Business General,I     ,A     ,M5S,80977,Vice President Properties & Procurement           ,0, ,0,0,0,0,0,0
+539752,2004,I     ,A     , ,BA    ,Biology,      ,      ,M5E,94414,                                                  ,0, ,0,0,0,0,0,0
+539895,2006,I     ,A     , ,BS    ,Information Systems,      ,      ,M5S,80977,Operations Support Manager                        ,2, ,0,0,0,0,0,0
+539725,2003,I     ,A     , ,BA    ,English Language and Literature,      ,      ,M5J,92668,4th to 6th Grade Teacher                          ,0, ,0,0,0,0,0,0
+539734,2003,I     ,A     , ,BA    ,English Language and Literature,I     ,A     ,M4L,74448,Teacher                                           ,0, ,0,0,0,0,0,0
+539966,2006,I     ,A     , ,BS    ,Psychology,      ,      ,M6P,68781,                                                  ,1, ,0,0,0,0,0,0
+539791,2004,I     ,A     , ,BBA   ,Business General,      ,      ,M5J,92668,Account Management Manager                        ,1, ,0,0,0,0,0,0
+539766,2005,I     ,A     , ,BS    ,Biology,I     ,A     ,M5J,92668,Stay-At-Home Mom                                  ,1,4/27/2006,0,0,0,0,0,5
+539879,2003,I     ,I     , ,      , ,I     ,I     ,M3C,53636,President                                         ,0, ,0,0,0,0,0,0
+540196,2002,I     ,A     , ,BS    ,Group Science,      ,      ,M6L,51191,                                                  ,0, ,0,0,0,0,0,0
+540270,2003,I     ,A     , ,BFA   ,Art,      ,      ,M4L,74448,                                                  ,1, ,0,0,0,0,0,0
+540293,2005,I     ,A     , ,BS    ,Group Science,      ,      ,M3C,53636,Facilitator/Advocate                              ,1, ,0,0,0,0,0,0
+540446,2004,I     ,A     , ,BS    ,Earth Science,I     ,A     ,M5V,79018,President                                         ,1, ,0,0,0,0,0,0
+540332,2003,I     ,A     , ,BBA   ,Finance,      ,      ,M5J,92668,Supervirsor- Insurance Adjusters                  ,1, ,0,0,0,0,0,0
+540264,2005,I     ,A     , ,BS    ,Occup Safety/Health Management,I     ,A     ,M5B,63763,                                                  ,0, ,0,0,0,0,0,0
+540304,2005,I     ,A     , ,BFA   ,Art,      ,      ,M6M,49028,                                                  ,11,6/30/2009,0,0,0,0,0,320
+540275,2004,I     ,A     , ,BS    ,Psychology,      ,      ,M3H,68796,Special Education Teacher                         ,0, ,0,0,0,0,0,0
+540509,2006,I     ,A     , ,BA    ,English Language and Literature,      ,      ,M1H,58876,                                                  ,0, ,0,0,0,0,0,0
+540380,2007,I     ,A     , ,BA    ,English Language and Literature,      ,      ,M6J,63464,                                                  ,0, ,0,0,0,0,0,0
+540329,2005,I     ,A     , ,BS    ,Psychology,      ,      ,M3K,60887,Child Protective Services worker                  ,0, ,0,0,0,0,0,0
+540445,2005,I     ,A     , ,BS    ,Health Science,      ,      ,M6B,63133,                                                  ,1, ,0,0,0,0,0,0
+540500,2002,I     ,A     , ,BBA   ,Business General,      ,      ,M5J,92668,CPA/Management Consultant                         ,2, ,0,0,0,0,0,0
+540510,2007,I     ,A     , ,BBA   ,Accounting,      ,      ,M4B,63005,CPA                                               ,1,1/25/2015,0,0,0,10,0,10
+540538,2004,I     ,A     , ,MSE   ,Engineering,      ,      ,M5T,40061,Student                                           ,0, ,0,0,0,0,0,0
+540536,2003,I     ,A     , ,BS    ,Cell and Molecular Biology,      ,      ,M5J,92668,                                                  ,1, ,0,0,0,0,0,0
+540512,2004,I     ,A     , ,BS    ,GRO Social Studies,      ,      ,M5S,80977,Self Employed Child Care                          ,0, ,0,0,0,0,0,0
+540600,2005,I     ,A     , ,BA    ,Geography,      ,      ,M6A,52149,Volunteer GIS Analyst                             ,1, ,0,0,0,0,0,0
+540601,2004,I     ,A     , ,BS    ,Biology,      ,      ,M5S,80977,Research Scientist                                ,0, ,0,0,0,0,0,0
+540817,2006,I     ,A     , ,MED   ,General Education,      ,      ,M5S,80977,Principal                                         ,0, ,0,0,0,0,0,0
+546897,2007,I     ,A     , ,BS    ,Biomedical Sciences,I     ,A     ,M6N,57378,Manufacturing Operations Group Leader             ,12,4/5/2012,0,7,0,48,48,322
+546826,2003,I     ,A     , ,BSN   ,Nursing,      ,      ,M1P,54560,RN                                                ,3, ,0,0,0,0,0,0
+546982,2006,I     ,A     , ,BS    ,Computer Science,      ,      ,M5S,80977,Software Development                              ,1, ,0,0,0,0,0,0
+547287,2006,I     ,A     , ,BS    ,Health Science,      ,      ,M5H,117919,Nurse Manager                                     ,1, ,0,0,0,0,0,0
+547229,2008,I     ,A     , ,BS    ,Psychology,      ,      ,M6L,51191,Direct Care                                       ,0, ,0,0,0,0,0,0
+547217,1981,I     ,A     , ,BBA   ,Marketing,      ,      ,M1P,54560,Business Analyst                                  ,1, ,0,0,0,0,0,0
+547522,2005,I     ,A     , ,BS    ,Biology,      ,      ,M6H,57309,Science Teacher                                   ,1, ,0,0,0,0,0,0
+547524,2004,I     ,A     , ,BSW   ,Social Work,      ,      ,M5A,43816,Social Worker                                     ,6,10/27/2014,0,6,0,50,20,360
+551008,2004,I     ,A     , ,MED   ,Reading,      ,      ,M1P,54560,Teacher                                           ,0, ,0,0,0,0,0,0
+551361,2003,I     ,A     , ,MS    ,Criminal Justice,      ,      ,M6R,78744,Corrections Department                            ,0, ,0,0,0,0,0,0
+551402,2007,I     ,A     , ,BS    ,GRO Social Studies,      ,      ,M4B,63005,Teacher                                           ,1, ,0,0,0,0,0,0
+551508,2006,I     ,A     , ,BS    ,Psychology,      ,      ,M2N,68333,Teacher                                           ,2, ,0,0,0,0,0,0
+551716,2006,I     ,A     , ,BS    ,Communications,I     ,A     ,M5J,92668,Digital Account Executive                         ,2, ,0,0,0,0,0,0
+551786,2004,I     ,A     , ,BA    ,Criminal Justice,I     ,ST    ,M2N,68333,                                                  ,2, ,0,0,0,0,0,0
+552444,2008,I     ,A     , ,BA    ,Advertising & Public Relations,      ,      ,M4N,156174,                                                  ,2, ,0,0,0,0,0,0
+552669,2004,I     ,A     , ,BA    ,Criminal Justice,      ,      ,M4B,63005,Territory Asset Protection Manager                ,1,10/13/2014,0,0,0,25,0,100
+553638,2005,I     ,A     , ,BA    ,Spanish,I     ,A     ,M4P,76675,Receptionist                                      ,2, ,0,0,0,0,0,0
+561596,2005,I     ,A     ,Parent,BS    ,Chemistry,      ,      ,M5V,79018,Environmental Project Manager                     ,1, ,0,0,0,0,0,0
+561867,2005,I     ,I     , ,      , ,I     ,I     ,M5E,94414,Regional Manager                                  ,0, ,0,0,0,0,0,0
+562168,2006,I     ,A     , ,BSN   ,Nursing,      ,      ,M6P,68781,                                                  ,1, ,0,0,0,0,0,0
+562024,2008,I     ,A     , ,BS    ,Occup Safety/Health Management,      ,      ,M5S,80977,                                                  ,1, ,0,0,0,0,0,0
+562250,2013,I     ,A     , ,BBA   ,Management,      ,      ,M3B,111062,Human Resources                                   ,2, ,0,0,0,0,0,0
+562306,2004,I     ,A     , ,MED   ,General Education,      ,      ,M3C,53636,Teacher                                           ,0, ,0,0,0,0,0,0
+562216,2008,I     ,A     , ,BS    ,Physical Education,      ,      ,M3K,60887,                                                  ,1, ,0,0,0,0,0,0
+562361,2007,I     ,A     , ,BSE   ,Engineering,      ,      ,M4B,63005,Engineer                                          ,1, ,0,0,0,0,0,0
+562663,2005,I     ,A     , ,BS    ,Psychology,      ,      ,M4P,76675,Forensic Interviewer                              ,2, ,0,0,0,0,0,0
+568362,2004,I     ,A     , ,BBA   ,Marketing,      ,      ,M4B,63005,Director of e-Commerce Sales                      ,2, ,0,0,0,0,0,0
+568513,2007,I     ,A     , ,BA    ,English Language and Literature,I     ,I     ,M3H,68796,1st Grade Teacher                                 ,2,9/26/2012,0,0,0,0,0,150
+568491,2007,I     ,A     , ,BS    ,GRO Social Studies,      ,      ,M1B,65192,                                                  ,1, ,0,0,0,0,0,0
+568475,2006,I     ,A     ,Parent,BA    ,English Language and Literature,      ,      ,M5S,80977,Teacher                                           ,0, ,0,0,0,0,0,0
+568971,2006,I     ,A     , ,BS    ,Art,      ,      ,M6M,49028,Photographer                                      ,1, ,0,0,0,0,0,0
+569277,2008,I     ,A     , ,BBA   ,Business Economics,I     ,A     ,M3H,68796,Housing Rehabilitation Specialist                 ,1,6/9/2009,0,0,0,0,0,50
+569415,2004,I     ,A     , ,BS    ,Hospitality Tourism Mgt,      ,      ,M5J,92668,                                                  ,2, ,0,0,0,0,0,0
+569654,2004,I     ,A     , ,BS    ,Natural Resource Management,      ,      ,M2N,68333,Transportation Planner                            ,1, ,0,0,0,0,0,0
+569758,2008,I     ,P     ,Parent,      , ,      ,      ,M4W,129818,Nurse Educator                                    ,0, ,0,0,0,0,0,0
+570561,2006,I     ,A     , ,BS    ,Information Systems,      ,      ,M3C,53636,"Developer II, Application Support                 ",1, ,0,0,0,0,0,0
+570837,2006,I     ,I     , ,      , ,I     ,I     ,M6E,60096,Financial Advisor                                 ,0,10/1/2009,0,0,0,0,0,345
+572275,2005,I     ,A     , ,MSA   ,Accounting,I     ,A     ,M1P,54560,Accountant                                        ,1, ,0,0,0,0,0,0
+572421,2011,I     ,A     , ,BBA   ,Management,I     ,A     ,M1P,54560,Account Manager                                   ,2, ,0,0,0,0,0,0
+572871,2009,I     ,A     , ,BS    ,Health Communication,      ,      ,M5V,79018,                                                  ,1, ,0,0,0,0,0,0
+572789,2014,I     ,A     , ,BS    ,Political Science,      ,      ,M4P,76675,Database Technicion                               ,3, ,0,0,0,0,0,0
+572915,2010,I     ,A     , ,BS    ,Health Science,      ,      ,M1E,64284,Certified Clinical Technician        ,1, ,0,0,0,0,0,0
+573350,2012,I     ,A     , ,BBA   ,Finance,      ,      ,M5S,80977,Biologics Sales Representative                    ,2, ,0,0,0,0,0,0
+581228,2007,I     ,A     , ,BBA   ,Management,      ,      ,M2N,68333,Technical Manager                                 ,3, ,0,0,0,0,0,0
+581335,2007,I     ,A     , ,BS    ,Information Systems,      ,      ,M5J,92668,Senior Technology Consultant and Owner            ,2, ,0,0,0,0,0,0
+581378,2006,I     ,A     , ,BA    ,GRO Social Studies,I     ,P     ,M5E,94414,Teacher - 8th Grade English                       ,1,9/26/2013,0,0,0,0,100,100
+581582,2005,I     ,A     , ,BS    ,Criminal Justice,      ,      ,M6P,68781,                                                  ,1, ,0,0,0,0,0,0
+581715,2007,I     ,A     , ,BS    ,Integrated Science,      ,      ,M4C,60310,4th Grade Teacher                                 ,2, ,0,0,0,0,0,0
+581636,2005,I     ,A     , ,BS    ,Computer Science,      ,      ,M5S,80977,Sophmore Engineering Manger                       ,1, ,0,0,0,0,0,0
+581660,2006,I     ,A     , ,BBA   ,Management,      ,      ,M5A,43816,Salesman                                          ,1, ,0,0,0,0,0,0
+581898,2004,I     ,A     , ,BS    ,Group Science,      ,      ,M6M,49028,3rd Grade Teacher                                 ,1, ,0,0,0,0,0,0
+581913,2008,I     ,A     , ,BS    ,Biology,      ,      ,M3C,53636,                                                  ,2, ,0,0,0,0,0,0
+581714,2005,I     ,A     , ,BS    ,Biology,      ,      ,M5J,92668,                                                  ,2, ,0,0,0,0,0,0
+581871,2008,I     ,A     , ,BS    ,Mathematics,      ,      ,M2L,116538,Night Stocker                                     ,6, ,0,0,0,0,0,0
+581969,2006,I     ,A     , ,BA    ,Statistics,      ,      ,M4E,99523,In-Store Teller                                   ,2, ,0,0,0,0,0,0
+582290,2013,I     ,A     , ,BSE   ,Product Dsgn & Mfg Engineering,      ,      ,M5T,40061,Engineer                                          ,0, ,0,0,0,0,0,25
+582172,2006,I     ,A     , ,BA    ,Philosophy,      ,      ,M6P,68781,Database Specialist                               ,12, ,0,0,0,0,0,0
+583414,2010,S     ,A     , ,BS    ,Liberal Studies,      ,      ,M5J,92668,Records Assistant                                 ,3, ,0,0,0,0,0,0
+584913,2011,I     ,I     , ,      , ,      ,      ,M2N,68333,Owner                                             ,0, ,0,0,0,0,0,0
+585129,2009,I     ,A     , ,BS    ,Communications,      ,      ,M6P,68781,Lead Admissions Counselor                         ,3,4/11/2014,0,0,0,0,50,60
+586280,2007,I     ,A     , ,BBA   ,Marketing,      ,      ,M5J,92668,E-Commerce Shipping Analyst                       ,2, ,0,0,0,0,0,0
+586361,2007,I     ,A     , ,BS    ,Integrated Science,      ,      ,M6A,52149, Sixth Grade Teacher & 5th/6th Grade Science Teach,1, ,0,0,0,0,0,0
+586377,2012,I     ,A     , ,BBA   ,Business Economics,      ,      ,M4C,60310,Mortgage Underwriter                              ,1, ,0,0,0,0,0,0
+586582,2005,I     ,A     , ,BS    ,GRO Social Studies,      ,      ,M6L,51191,                                                  ,1, ,0,0,0,0,0,0
+586724,2007,I     ,A     , ,BS    ,Psychology,      ,      ,M5J,92668,Assistant Manager                                 ,1, ,0,0,0,0,0,0
+586699,2008,I     ,A     , ,BS    ,Integrated Science,      ,      ,M6P,68781,                                                  ,1, ,0,0,0,0,0,0
+586799,2006,I     ,A     , ,MED   ,General Education,      ,      ,M5V,79018,Dean of Students                                  ,0, ,0,0,0,0,0,0
+586780,2008,I     ,A     , ,BBA   ,Accounting,      ,      ,M2P,132447,Tax Supervisor                                    ,1, ,0,0,0,0,0,0
+587213,2010,I     ,A     , ,BS    ,Computer Science,      ,      ,M1H,58876,Software Designer                                 ,9, ,0,0,0,0,0,40
+587461,2010,I     ,A     , ,BS    ,Public Administration,      ,      ,M5S,80977,Consultant                                        ,4, ,0,0,0,0,0,0
+587513,2010,I     ,A     , ,BS    ,Photography,      ,      ,M5R,96285,Advertising Production Coordinator                ,1, ,0,0,0,0,0,0
+587772,2009,I     ,A     , ,BSN   ,Nursing,      ,      ,M3J,49625,                                                  ,2, ,0,0,0,0,0,0
+592401,2008,I     ,A     , ,BBA   ,Management,I     ,A     ,M5V,79018,Transportation Management                         ,1, ,0,0,0,0,0,0
+594408,2006,I     ,A     , ,BBA   ,Accounting,      ,      ,M5S,80977,"CPA, Tax Staff                                    ",2, ,0,0,0,0,0,0
+594365,2010,I     ,A     , ,BBA   ,Marketing,      ,      ,M6N,57378,Software Project Engineer                         ,5, ,0,0,0,0,0,0
+594655,2009,I     ,A     , ,BSW   ,Social Work,      ,      ,M1P,54560,                                                  ,3, ,0,0,0,0,0,0
+594665,2006,I     ,A     , ,MSA   ,Accounting,I     ,A     ,M4E,99523,External Auditor                                  ,1, ,0,0,0,0,0,0
+594664,2006,I     ,A     , ,BS    ,GRO Social Studies,      ,      ,M5J,92668,                                                  ,2, ,0,0,0,0,0,0
+594809,2011,I     ,A     , ,BS    ,Psychology,      ,      ,M5V,79018,                                                  ,2, ,0,0,0,0,0,0
+597337,2006,I     ,A     , ,MBA   ,Business General,      ,      ,M2N,68333,Aftermarket Business Manager                      ,2, ,0,0,0,0,0,0
+597406,2006,I     ,A     , ,BS    ,Criminal Justice,I     ,A     ,M5S,80977,Inventory Control Analyst                         ,1, ,0,0,0,0,0,0
+597782,2010,I     ,A     , ,BS    ,Hospitality Tourism Mgt,      ,      ,M5J,92668,Retention Specialist                              ,2, ,0,0,0,0,0,0
+598078,2009,I     ,A     , ,BBA   ,Marketing,      ,      ,M5E,94414,                                                  ,4, ,0,0,0,0,0,0
+598074,2006,I     ,A     , ,MED   ,General Education,I     ,A     ,M4P,76675,Teacher                                           ,1,12/13/2006,0,0,0,0,0,725
+598385,2010,I     ,A     , ,BBA   ,Management,      ,      ,M6M,49028,Digital Director                                  ,5, ,0,0,0,0,0,0
+598397,2006,I     ,I     , ,      , ,      ,      ,M5S,80977,Sales Account Manager                             ,0, ,0,0,0,0,0,0
+599118,2006,I     ,A     , ,BS    ,Criminal Justice,      ,      ,M5B,63763,Security                                          ,5,5/28/2008,0,0,0,0,0,50
+600176,2006,I     ,A     , ,BS    ,Psychology,      ,      ,M6P,68781,                                                  ,1, ,0,0,0,0,0,0
+600444,2006,I     ,A     , ,BS    ,Health Science,      ,      ,M5J,92668,RN                                                ,1, ,0,0,0,0,0,0
+600564,2008,I     ,A     , ,BA    ,Information Systems,      ,      ,M1P,54560,Application Developer                             ,2, ,0,0,0,0,0,0
+600529,2006,I     ,A     , ,BBA   ,Finance,      ,      ,M1H,58876,"Pricing Modeler, Supply Management                ",3, ,0,0,0,0,0,0
+600715,2007,I     ,A     ,Parent,BS    ,Health Science,      ,      ,M6H,57309,Chiropracter                                      ,1, ,0,0,0,0,0,0
+600773,2007,I     ,A     , ,BS    ,Advertising & Public Relations,      ,      ,M5R,96285,Bridal Consultant                                 ,5, ,0,0,0,0,0,0
+600776,2013,I     ,A     , ,BS    ,Health Science,      ,      ,M5J,92668,Administrative Assistant                          ,2, ,0,0,0,0,0,0
+600836,2013,I     ,A     , ,BS    ,Political Science,      ,      ,M1P,54560,Insurance Representative                          ,1, ,0,0,0,0,0,0
+602706,2011,S     ,A     , ,BBA   ,Management,      ,      ,M6P,68781,Admissions Communication Clerk                    ,1, ,0,0,0,0,0,0
+602659,2010,I     ,A     , ,BS    ,Health Communication,      ,      ,M3K,60887,Independent Management Consulting Pro.            ,1, ,0,0,0,0,0,0
+603203,2009,I     ,A     , ,BS    ,Therapeutic Recreation,I     ,A     ,M6P,68781,                                                  ,2, ,0,0,0,0,0,0
+603079,2008,I     ,A     , ,BS    ,Criminal Justice,I     ,A     ,M5T,40061,Deputy Officer                                    ,0, ,0,0,0,0,0,0
+603338,2007,I     ,A     , ,BS    ,Occup Safety/Health Management,      ,      ,M3C,53636,Safety Engineer                                   ,2, ,0,0,0,0,0,0
+603438,2011,I     ,A     , ,BA    ,Dance,      ,      ,M5S,80977,Strategy Consultant                               ,2, ,0,0,0,0,0,0
+603387,2011,I     ,A     , ,BBA   ,Accounting,      ,      ,M5T,40061,                                                  ,1, ,0,0,0,0,0,0
+605465,2007,I     ,P     ,Parent,      , ,I     ,I     ,M6P,68781,Owner                                             ,0, ,0,0,0,0,0,0
+606188,2010,I     ,P     ,Parent,      , ,      ,      ,M5N,124397,                                                  ,0, ,0,0,0,0,0,0
+607658,2007,I     ,P     ,Parent,      , ,      ,      ,M6P,68781,Sales                                             ,0, ,0,0,0,0,0,0
+608661,2010,I     ,A     , ,BS    ,Criminal Justice,      ,      ,M4V,120678,Academic Assistant                                ,2, ,0,0,0,0,0,0
+608652,2011,I     ,A     , ,BS    ,Exercise Science,      ,      ,M3K,60887,Physical Therapist                                ,1, ,0,0,0,0,0,0
+608587,2008,I     ,A     , ,DPT   ,Physical Therapy,      ,      ,M5S,80977,Physical Therapist/Site Leader                    ,1, ,0,0,0,0,0,0
+608629,2013,I     ,A     , ,BBA   ,Finance,      ,      ,M1H,58876,Financial Sales Consultant                        ,1, ,0,0,0,0,0,0
+608746,2009,I     ,A     , ,BA    ,English Language and Lit,      ,      ,M6H,57309,                                                  ,1,11/21/2008,0,0,0,0,0,10
+611234,2012,I     ,A     , ,BBA   ,Management,      ,      ,M6B,63133,Recruiter                                         ,2, ,0,0,0,0,0,0
+611288,2010,I     ,A     , ,BS    ,Advertising & Public Relations,      ,      ,M1P,54560,Customer Service Advocate                         ,3, ,0,0,0,0,0,0
+611516,2010,I     ,A     , ,BBA   ,Finance,      ,      ,M1N,75900,Assistant Property Manager                        ,2, ,0,0,0,0,0,0
+611761,2008,I     ,A     , ,BBA   ,Marketing,      ,      ,M5R,96285,Audit Senior                                      ,4, ,0,0,0,0,0,0
+611624,2011,S     ,A     , ,BS    ,Athletic Training,      ,      ,M5J,92668,Asst Athletic Trainer                             ,5, ,0,0,0,0,0,0
+611849,2008,I     ,A     , ,BBA   ,Marketing,I     ,A     ,M2N,68333,Marketing Intern                                  ,7, ,0,0,0,0,0,0
+612679,2008,I     ,A     , ,BS    ,Hospitality Tourism Mgt,      ,      ,M5S,80977,Guest Service Representative                      ,2, ,0,0,0,0,0,0
+615082,2012,I     ,A     , ,BA    ,Writing,      ,      ,M2N,68333,Retail,3, ,0,0,0,0,0,0
+615233,2010,I     ,A     , ,BS    ,Hospitality Tourism Mgt,I     ,A     ,M4M,59723,Information/Publications Coordinator              ,2, ,0,0,0,0,0,0
+615336,2011,I     ,A     , ,BBA   ,Finance,      ,      ,M6L,51191,Financial Services Professional                   ,1, ,0,0,0,0,0,0
+615510,2012,I     ,A     , ,BS    ,GRO Social Studies,      ,      ,M6P,68781,Teacher                                           ,1, ,0,0,0,0,0,0
+615689,2010,I     ,A     , ,BBA   ,Finance,I     ,A     ,M4P,76675,Sales                                             ,1, ,0,0,0,0,0,0
+615728,2012,I     ,A     , ,BS    ,Hospitality Tourism Mgt,      ,      ,M5T,40061,HR Manager - Corporate Retail Operations          ,3, ,0,0,0,0,0,0
+616438,2012,I     ,A     , ,BBA   ,Management,I     ,A     ,M5J,92668,Licensed Consultant                               ,2, ,0,0,0,0,0,50
+616312,2010,I     ,A     , ,BS    ,GRO Social Studies,      ,      ,M4B,63005,Administrative Assistant                          ,1, ,0,0,0,0,0,0
+619015,2010,I     ,A     , ,BS    ,Advertising & Public Relations,      ,      ,M6J,63464,Advertising Specialist                            ,1, ,0,0,0,0,0,0
+619120,2010,I     ,A     , ,BSE   ,Engineering,      ,      ,M5S,80977,Engineer                                      ,1, ,0,0,0,0,0,0
+619238,2010,I     ,A     , ,MBA   ,Business General,      ,      ,M5J,92668,Financial Advisor                                 ,0, ,0,0,0,0,0,0
+621146,2012,I     ,A     ,Parent,EDS   ,Leadership,      ,      ,M1L,48164,Administator                                      ,1, ,0,0,0,0,0,0
+621385,2012,I     ,P     ,Parent,      , ,      ,      ,M6P,68781,                                                  ,0, ,0,0,0,0,0,0
+624881,2011,I     ,A     , ,BBA   ,Marketing,      ,      ,M6N,57378,Account Executive                                 ,6,3/29/2011,0,0,0,0,0,30
+625977,2009,I     ,A     , ,BFA   ,Art,      ,      ,M5R,96285,                                                  ,3, ,0,0,0,0,0,0
+625819,2012,I     ,A     , ,BS    ,Biomedical Sciences,      ,      ,M5G,51478,                                                  ,2,6/30/2012,0,0,0,0,0,50
+625952,2009,I     ,A     , ,BSW   ,Social Work,      ,      ,M3B,111062,Youth Program Coordinator                         ,1, ,0,0,0,0,0,0
+627621,2010,I     ,A     , ,BBA   ,Accounting,      ,      ,M5J,92668,Staff Accountant                                  ,2, ,0,0,0,0,0,0
+627770,2011,I     ,A     , ,BS    ,Hospitality Tourism Mgt,      ,      ,M5S,80977,Server           ,2, ,0,0,0,0,0,0
+627812,2012,I     ,A     , ,BA    ,English Language and Literature,      ,      ,M3B,111062,Analyst                                      ,2, ,0,0,0,0,0,0
+627705,2010,I     ,A     , ,BS    ,Mathematics,I     ,A     ,M5B,63763,                                                  ,0,4/18/2011,0,0,0,0,0,25
+628408,2010,I     ,P     ,Parent,      , ,I     ,I     ,M5R,96285,Partner                                           ,0, ,0,0,0,0,0,0
+630906,2013,I     ,A     , ,BS    ,Advertising & Public Relations,      ,      ,M5T,40061,Communications and Event Services                 ,6, ,0,0,0,0,0,0
+631049,2011,I     ,A     , ,BS    ,Advertising & Public Relations,      ,      ,M6H,57309,Sales Representative                              ,3, ,0,0,0,0,0,0
+630983,2011,I     ,A     , ,BME   ,Music,      ,      ,M3H,68796,                                                  ,2, ,0,0,0,0,0,0
+631111,2011,I     ,A     , ,BBA   ,Marketing,      ,      ,M4N,156174,Marketing Assistant                               ,3, ,0,0,0,0,0,0
+631818,2011,I     ,A     , ,BS    ,Communications,      ,      ,M4T,150692,Student                                           ,2,9/9/2012,0,0,0,0,0,50
+632286,2012,I     ,A     , ,BBA   ,Marketing,      ,      ,M6N,57378,                                                  ,5,7/23/2013,200,0,200,200,800,800
+638078,2009,I     ,A     ,Parent,BBA   ,Marketing,      ,      ,M2L,116538,Marketing Development Rep                         ,1, ,0,0,0,0,0,0
+638165,2009,I     ,A     , ,BBA   ,Finance,      ,      ,M5S,80977,Business Systems Analyst - SAP Retail             ,2, ,0,0,0,0,0,0
+642764,2013,I     ,A     , ,BS    ,Psychology,      ,      ,M6M,49028,Teacher                                           ,2,12/3/2014,0,0,0,5,0,30
+643099,2012,I     ,A     , ,BBA   ,Accounting,      ,      ,M1B,65192,Staff Accountant                                  ,1, ,0,0,0,0,0,0
+643122,2012,I     ,A     , ,BSE   ,Engineering,      ,      ,M6P,68781,Electrical Engineer                               ,1, ,0,0,0,0,0,0
+643392,2013,I     ,A     , ,BS    ,Diagnostic Medical Sonography,      ,      ,M6R,78744,Ultrasonographer                                  ,1,4/11/2011,0,0,0,0,0,5
+643431,2010,I     ,A     , ,BS    ,Advertising & Public Relations,      ,      ,M1N,75900,Direct Sales Account Executive                    ,1, ,0,0,0,0,0,0
+643606,2013,I     ,A     , ,BS    ,Exercise Science,      ,      ,M6L,51191,Physical Therapist                                ,4, ,0,0,0,0,0,0
+643826,2012,I     ,A     , ,BS    ,Biology,      ,      ,M6P,68781,"Environmental, Health & Safety Analyst            ",1, ,0,0,0,0,0,0
+644237,2013,I     ,A     , ,BS    ,Natural Resource Management,      ,      ,M6P,68781,Project Lead,4, ,0,0,0,0,0,0
+644600,2013,I     ,A     , ,BS    ,Physical Education,      ,      ,M1B,65192,Physical Education                                ,3, ,0,0,0,0,0,0
+644762,2014,I     ,A     , ,BA    ,Spanish,      ,      ,M5S,80977,                                                  ,4, ,0,0,0,0,0,0
+645003,,I     ,A     , ,BA    ,Spanish,      ,      ,M1H,58876,Product Specialist                                ,3, ,0,0,0,0,0,0
+645126,,I     ,A     , ,BS    ,Earth Science,      ,      ,M5B,63763,Middle School Math Teacher                        ,2, ,0,0,0,0,0,10
+649356,,I     ,A     , ,BS    ,Health Professions,      ,      ,M6N,57378,                                                  ,0,4/20/2011,0,0,0,0,0,10
+650505,,I     ,A     , ,BBA   ,Business General,      ,      ,M1H,58876,HR Staffing                                       ,6, ,0,0,0,0,0,0
+650691,,I     ,A     , ,BBA   ,Accounting,      ,      ,M6L,51191,Accounting Specialist                             ,2, ,0,0,0,0,0,0
+651172,,I     ,A     , ,BS    ,Criminal Justice,      ,      ,M4L,74448,                                                  ,3, ,0,0,0,0,0,0
+659403,,I     ,A     , ,BBA   ,Accounting,      ,      ,M6H,57309,Managing Member                                   ,3, ,0,0,0,0,0,0
+669642,,I     ,A     , ,BS    ,Diagnostic Medical Sonography,      ,      ,M5S,80977,Ultrasound Technician                             ,1, ,0,0,0,0,0,0
+670399,,I     ,A     , ,BA    ,Art,      ,      ,M4T,150692,                                                  ,1, ,0,0,0,0,0,0
+671098,,I     ,A     , ,BBA   ,Management,      ,      ,M5V,79018,                                                  ,5,6/30/2012,0,0,0,0,0,10
+672174,,I     ,A     , ,BA    ,Hospitality Tourism Mgt,      ,      ,M3J,49625,Secretary                                         ,1, ,0,0,0,0,0,0
+672102,,I     ,A     , ,BS    ,Economics,      ,      ,M6A,52149,Information Analyst                               ,2, ,0,0,0,0,0,0
+672176,,I     ,A     , ,BS    ,Health Professions,      ,      ,M5J,92668,Medical Technologist                              ,3, ,0,0,0,0,0,0
+672775,,I     ,A     , ,BS    ,Biomedical Sciences,      ,      ,M6P,68781,                                                  ,3, ,0,0,0,0,0,0
+672759,,I     ,A     , ,BS    ,Hospitality Tourism Mgt,      ,      ,M6J,63464,Intern                                            ,3, ,0,0,0,0,0,0
+672848,,I     ,A     , ,BS    ,Physical Education,      ,      ,M5J,92668,                                                  ,2,6/30/2012,0,0,0,0,0,20
+673518,,I     ,A     , ,BS    ,Communication Studies,      ,      ,M5R,96285,Mortgage Banker                                   ,2, ,0,0,0,5,0,5
+675217,,I     ,A     , ,MED   ,Higher Education,      ,      ,M4S,95168,Hall Director                                     ,3,6/30/2012,0,0,0,0,0,70
+675438,,I     ,A     , ,BA    ,Liberal Studies,      ,      ,M5T,40061,                                                  ,10,10/26/2015,0,0,25,25,0,52
+676785,,I     ,A     , ,BBA   ,Finance,      ,      ,M6E,60096,Secondary Marketing Research                      ,6, ,0,0,0,0,0,0
+676975,,I     ,A     , ,BS    ,Health Professions,      ,      ,M6J,63464,Certified Nurse Aide                              ,4, ,0,0,0,0,0,0
+677156,,I     ,A     , ,BS    ,Economics,      ,      ,M6H,57309,Business Analysist                                ,3, ,0,0,0,0,0,0
+679014,,I     ,P     ,Parent,      , ,      ,      ,M6E,60096,                                                  ,0, ,0,0,0,0,0,0
+679319,,I     ,P     ,Parent,      , ,      ,      ,M4T,150692,Sr. Project Manager                               ,0, ,0,0,0,0,0,0
+680223,,I     ,P     ,Parent,      , ,      ,      ,M4T,150692,COO   ,0, ,0,0,0,0,0,0
+681219,,I     ,P     ,Parent,      , ,      ,      ,M4L,74448,                                                  ,0, ,0,0,0,0,0,0
+685065,,I     ,P     ,Parent,      , ,      ,      ,M6L,51191,Legal Assistant                                   ,0, ,0,0,0,0,0,0
+685024,,I     ,P     ,Parent,      , ,      ,      ,M5S,80977,                                                  ,0, ,0,0,0,0,0,0
+685761,,I     ,P     ,Parent,      , ,      ,      ,M4B,63005,Technician                                        ,0, ,0,0,0,0,0,0
+685727,,I     ,P     ,Parent,      , ,      ,      ,M5N,124397,                                                  ,0, ,0,0,0,0,0,0
+685677,,I     ,P     ,Parent,      , ,      ,      ,M5J,92668,                                                  ,0, ,0,0,0,0,0,0
+685780,,I     ,P     ,Parent,      , ,      ,      ,M6H,57309,Autobody Technician                               ,0, ,0,0,0,0,0,0
+685775,,I     ,P     ,Parent,      , ,      ,      ,M6M,49028,Professor                                         ,0, ,0,0,0,0,0,0
+688156,,I     ,P     ,Parent,      , ,      ,      ,M5M,135475,Architect                                         ,0, ,0,0,0,0,0,0
+688798,,I     ,P     ,Parent,      , ,      ,      ,M5M,135475,                                                  ,0, ,0,0,0,0,0,0
+688572,,I     ,P     ,Parent,      , ,      ,      ,M3N,45065,Mechanic                                          ,0, ,0,0,0,0,0,0
+688640,,I     ,P     ,Parent,      , ,      ,      ,M5G,51478,Work Planner                                      ,0, ,0,0,0,0,0,0
+688927,,I     ,P     ,Parent,      , ,      ,      ,M6R,78744,Manager                                           ,0, ,0,0,0,0,0,0
+691058,,I     ,P     ,Parent,      , ,      ,      ,M3N,45065,                                                  ,0, ,0,0,0,0,0,0
+698583,,I     ,I     , ,      , ,      ,      ,M5M,135475,                                                  ,0, ,0,0,0,0,0,0
+703775,,I     ,P     ,Parent,      , ,      ,      ,M2P,132447,Director of Professional Services                 ,0, ,0,0,0,0,0,0
+728785,,I     ,P     ,Parent,      , ,      ,      ,M1B,65192,Interventional Radiologic Technologist            ,0, ,0,0,0,0,0,0
+732070,,I     ,P     ,Parent,      , ,      ,      ,M4T,150692,Owner                                             ,0, ,0,0,0,0,0,0
+733983,,I     ,P     ,Parent,      , ,      ,      ,M5B,63763,Regional Security Lead                            ,0, ,0,0,0,0,0,0
+733948,,I     ,P     ,Parent,      , ,I     ,P     ,M5R,96285,Innovation Architect                              ,0, ,0,0,0,0,0,0
+734558,,I     ,P     ,Parent,      , ,      ,      ,M4T,150692,Director of Finance                               ,0, ,0,0,0,0,0,0
+735585,,I     ,P     ,Parent,      , ,      ,      ,M4T,150692,VP Technology                                     ,0, ,0,0,0,0,0,0
+736054,,I     ,P     ,Parent,      , ,      ,      ,M4T,150692,Owner                                             ,0, ,0,0,0,0,0,0
